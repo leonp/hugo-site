@@ -1,0 +1,40 @@
+{{ template "theme/inc/head.html" . }}
+ 
+	<article class="entry" role="article">
+
+		<header class="entry-header">
+
+			<h1 class="entry-header-title">{{ .Title }}</h1>
+			
+			<div class="entry-header-meta">
+			
+				<p class="secondary">{{ .Date.Format "Monday January 02, 2006" }}</p>
+				
+			</div>
+			
+		</header>
+		
+		<div class="entry-content">
+		
+			{{ .Content }}
+			
+		</div>
+		
+		<footer class="entry-footer">
+		
+			<p>Filed under:
+				
+				{{ range .Params.categories }}
+				<a class="inline-list-item tag-term" href="/categories/{{ . | urlize }}">{{ . }}</a>
+				{{ end }}
+			
+			</p>
+
+		
+			<p><a href="/post">All posts &rarr;</a></p>
+			
+		</footer>
+		
+	</article>
+
+{{ template "theme/inc/footer.html" . }}

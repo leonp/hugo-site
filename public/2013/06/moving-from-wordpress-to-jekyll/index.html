@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+
+<html lang="en-gb">
+
+	<head>
+	
+		<meta charset="utf-8">
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>A few notes on moving from WordPress to Jekyll &#8211; Leon Paternoster</title>
+		
+		<script src="//use.typekit.net/coi4xnv.js"></script>
+		<script>try{Typekit.load();}catch(e){}</script>
+		
+		<link rel="stylesheet" href="/css/style.css">
+		
+		<link href="/index.xml" rel="alternate" type="application/rss+xml" title="Leon Paternoster">
+
+    
+		
+	</head>
+	
+	<body>
+	
+		<div class="wrapper">
+	
+			<header class="banner-header clearfix" role="banner">
+	
+			<h1 class="banner-header-title"><a href="http://localhost:1313">Leon Paternoster</a></h1>
+
+			<nav class="banner-header-nav" role="navigation" id="navigation">
+
+				<ul class="banner-header-nav-list">
+
+				
+
+					<li class="banner-header-nav-list-item"><a href="http://localhost:1313/about">About</a></li>
+
+				
+
+					<li class="banner-header-nav-list-item"><a href="/post">Posts</a></li>
+
+				
+ 
+				</ul>
+	
+			</nav>
+			
+		</header>
+		
+		<main id="content" role="main"> 
+
+ 
+	<article class="entry" role="article">
+
+		<header class="entry-header">
+
+			<h1 class="entry-header-title">A few notes on moving from WordPress to Jekyll</h1>
+			
+			<div class="entry-header-meta">
+			
+				<p class="secondary">Sunday June 23, 2013</p>
+				
+			</div>
+			
+		</header>
+		
+		<div class="entry-content">
+		
+			
+
+<p><figure class="figure alignnone"><img class="full-bleed wp-image-32 size-full" src="http://leonpaternoster.com/wp-content/uploads/2013/06/jekyll.jpg" alt="Poster of Jekyll turning into Hyde" width="1020" height="709" /><figcaption class="secondary">Image from <a href="http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dr_Jekyll_and_Mr_Hyde_poster_edit2.jpg/1280px-Dr_Jekyll_and_Mr_Hyde_poster_edit2.jpg">Wikimedia</a></figcaption></figure>
+Last night I migrated my blog from WordPress to <a href="http://jekyllrb.com/">Jekyll</a>. As it doesn&#8217;t really make much difference to readers (apart from in one major way, which I&#8217;ll discuss in a bit), I wasn&#8217;t planning to write about it. But the change elicited a few Twitter comments, so here&#8217;s a rough and ready explanation/guide.</p>
+
+<h2 id="toc_0">What&#8217;s Jekyll?</h2>
+
+<p>Jekyll is a static site generator, which means you write posts on your PC in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, which Jekyll converts into a bunch of HTML pages. Once it&#8217;s done that, you upload your site to your web server.</p>
+
+<h2 id="toc_1">Why use Jekyll?</h2>
+
+<p><strong>Speed</strong>, mainly. WordPress builds HTML pages <em>on your web server</em> by grabbing information from a database and feeding it through a template. Jekyll looks at Markdown files within a folder, puts them through various <a href="http://liquidmarkup.org/">Liquid</a> templates and generates HTML pages <em>on your PC</em>. You can view these pages before uploading them to your server (and copy and paste them – there&#8217;s no extracting your content from a database).</p>
+
+<p>Because a Jekyll–generated site consists of flat HTML files it&#8217;s also a lot <strong>simpler and therefore more robust</strong> than a WordPress install. There&#8217;s no database, which means no <code>500 internal server error</code> messages.</p>
+
+<p>For the same reason, Jekyll is <strong>more secure</strong> than WordPress. A database can provide access to your website. No database means no way in.</p>
+
+<p>Finally, the Jekyll <strong>writing workflow</strong> is simpler and more flexible than WordPress&#8217;s. When I used WordPress I&#8217;d write posts in Markdown, copy the HTML it generated and post it into the WordPress editor. Jekyll converts the Markdown into posts for me, which I then upload to the server. No copying and pasting, logging in and reformatting.</p>
+
+<h2 id="toc_2">Disadvantages</h2>
+
+<p>Initially, Jekyll is daunting, especially if you&#8217;re not used to the <strong>command line</strong>. You can&#8217;t open a program with an icon and windows and buttons. This is what you&#8217;ll be using:<figure></p>
+
+<p><img src="https://lh3.googleusercontent.com/-k8NAPsBc5Cw/Ucc0YEhoc6I/AAAAAAAAB7Y/X_eVVYvNI7E/w600-h457-no/terminal.jpg" alt="Screenshot of the Linux command line" />
+</figure> <p class="figcaption">
+  A command line, yesterday
+</p></p>
+
+<p>To get everything up and running you&#8217;ll need to install Ruby and the Jekyll gems, and write in Markdown. You&#8217;ll also have to use an FTP client (or even run the site through Github).</p>
+
+<p>Jekyll, Ruby, Markdown, Liquid, FTP… It all sounds frankly geeky. And it is, to a certain extent, but once the system is set up it&#8217;s easy to use. <strong>Markdown is easier to write than HTML</strong> and gives you far more freedom and control over what your website outputs than a WYSIWYG editor. If you can hack around WordPress template tags, you won&#8217;t struggle with Liquid.</p>
+
+<p>Similarly, the command line is efficient, and the only things you&#8217;ll need to type are:</p>
+
+<ul>
+<li><code>cd [path to your site's folder on your PC]</code></li>
+<li><code>jekyll build --watch</code></li>
+<li><code>jekyll serve</code></li>
+</ul>
+
+<p>There are, however, a few additional problems. The biggest is <strong>there are no comments</strong>, because there&#8217;s no database to store them in. Unlike many bloggers who made the move to Jekyll, I like comments. Getting rid of them is a big thing.</p>
+
+<p>I weighed up the advantages of Jekyll against losing comments and decided to take the plunge anyway. If you have a lot of comments you may feel differently.</p>
+
+<p>If you <em>do</em> want comments you can use a third party system like Disqus. Personally, I don&#8217;t like Disqus, but it is possible to export all your existing WordPress comments into it.</p>
+
+<p>Another big advantage to WordPress is that it lets you publish anywhere with an internet connection. All you need is a browser or the relevant app. With Jekyll you need a PC with Ruby and Jekyll installed on it. You <em>can</em> store a local site across different PCs using Dropbox, but it&#8217;s a still <strong>a long way from being able to publish a post on a public PC or a smartphone</strong>. If you&#8217;re blogging about a trip abroad, you&#8217;re not going to use Jekyll.</p>
+
+<p>Finally, you might miss <strong>WordPress&#8217;s plugins</strong>.</p>
+
+<h2 id="toc_3">How to plan the migration</h2>
+
+<p>You&#8217;ll need to think about:</p>
+
+<ol>
+<li>setting up Ruby</li>
+<li>setting up Jekyll</li>
+<li>moving your existing posts from WordPress into Jekyll</li>
+<li>getting your permalink and image URLs to match up with your existing install</li>
+<li>creating a sitemap</li>
+<li>creating an RSS feed</li>
+</ol>
+
+<h3 id="toc_4">Installing Ruby and Jekyll</h3>
+
+<p>Remember – <strong>you don&#8217;t need to know any Ruby to run Jekyll</strong>. You just need to install it.</p>
+
+<p>You won&#8217;t need to set up Ruby on a Mac as it comes pre–installed. Use the <a href="http://www.ruby-lang.org/en/downloads/">official Ruby guidelines</a> if you&#8217;re on Ubuntu or similar, and the <a href="http://jekyllrb.com/docs/installation/">Jekyll docs</a> if you&#8217;re on Ubuntu or Mac.</p>
+
+<p>I have Jekyll installed on my <strong>Windows</strong> work laptop. <a href="http://www.madhur.co.in/blog/2011/09/01/runningjekyllwindows.html">Running Jekyll on Windows</a> is the best guide I found, although I did a few things differently:</p>
+
+<ul>
+<li>I installed the Ruby devkit from the same page as the Windows Ruby installer (just make sure you get the right devkit for the right version of Ruby)</li>
+<li>I didn&#8217;t need to edit my <code>config.yml</code> file as it already contained the correct path to my Ruby installation</li>
+<li>I didn&#8217;t bother installing pygments</li>
+</ul>
+
+<p>It&#8217;s also worth remembering you can run a special Ruby command line from Windows. To find this I simply enter <code>command</code> into the start button search box, which brings up a choice of a standard command line or the Ruby version.</p>
+
+<h3 id="toc_5">Moving your existing posts from WordPress to Ruby</h3>
+
+<p>I couldn&#8217;t get the ‘official’ WordPress importer to work, but <a href="https://github.com/thomasf/exitwp">exitwp</a> was excellent. Just make sure you follow <em>all</em> the instructions carefully.</p>
+
+<p>Unfortunately, you won&#8217;t just be able to publish your exported markdown posts as is. <strong>They&#8217;ll need <em>some</em> editing</strong>. For example, exitwp didn&#8217;t handle WordPress&#8217;s `` very well. I found that a normal post will take around two–five minutes to edit, depending on how many images it contains, which is why I&#8217;ve only published 10 at the time of writing (check your analytics to see what&#8217;s popular).</p>
+
+<p>You&#8217;ll save yourself a lot of heartache if you can <strong>keep your existing permalink and image path settings</strong>. It&#8217;s easy to configure pretty URLs in Jekyll (and I published a post on <a href="http://leonpaternoster.com/2013/06/replicating-year-month-wordpress-urls-in-jekyll/">keeping the standard YY/MM/post-name structure</a>).</p>
+
+<p>WordPress stores images and other assets in its <code>wp-content/uploads</code> folder and organises it according to your chosen permalink structure. exitwp extracts all your assets from your <code>wordpress.xml</code> file and puts them in a similarly structured folder. So all you need to get images working on your Jekyll site is to copy the <code>uploads</code> folder to your project&#8217;s folder.</p>
+
+<h3 id="toc_6">Creating a sitemap and RSS feed</h3>
+
+<p>Again, this isn&#8217;t as daunting as it seems. Both these methods worked perfectly:</p>
+
+<ul>
+<li>Vito Bottas&#8217;s guide to <a href="http://vitobotta.com/how-to-migrate-from-wordpress-to-jekyll/#atom-rss-feed">creating an RSS feed</a> (just remember to replace all the existing site references if you copy and paste the code)</li>
+<li>Tobiass Josten&#8217;s guide to <a href="http://vvv.tobiassjosten.net/jekyll/jekyll-sitemap-without-plugins/">creating a sitemap XML file</a></li>
+</ul>
+
+<h2 id="toc_7">Conclusion</h2>
+
+<p>And that&#8217;s all I did. I now have a website that&#8217;s generated on my laptop then uploaded to my server. I&#8217;ve found it easy to publish posts and everything is a lot quicker:<figure></p>
+
+<p><img src="https://lh6.googleusercontent.com/-T8befFQMJaI/UcctGFRlmwI/AAAAAAAAB60/FN_9adEUxEQ/w761-h480-no/pingdom.jpg" alt="Screenshot of my faster than 100% of other sites pingdom result" />
+</figure> <p class="figcaption">
+  My site put through <a href="http://tools.pingdom.com/fpt/">Pingdom&#8217;s tester</a>
+</p></p>
+
+<p>If you know the basics of WordPress theme creation then you should know enough to start using Jekyll. It all depends on how important comments and plugins are to you. WordPress isn&#8217;t ‘bloated’–it&#8217;s just more than you need for a simple blog.</p>
+
+<p>(Incidentally, you may ask <em>why Jekyll?</em> Well, Mr Hyde is Dr Jekyll&#8217;s ugly, evil alter ego. Jekyll lets you present your civilised face to the world while keeping all your ugly, evil stuff on your PC.)</p>
+
+<p>*[HTML]: HyperText Markup Language
+ *[FTP]: File Transfer Protocol
+ *[WYSIWYG]: What you see is what you get
+ *[RSS]: Really Simple Syndication
+ *[XML]: Extensible Markup Langauge</p>
+
+			
+		</div>
+		
+		<footer class="entry-footer">
+		
+			<p>Filed under:
+				
+				
+				<a class="inline-list-item tag-term" href="/categories/code-and-technology">Code and technology</a>
+				
+			
+			</p>
+
+		
+			<p><a href="/post">All posts &rarr;</a></p>
+			
+		</footer>
+		
+	</article>
+
+			</main>
+		
+			<footer class="info-footer" role="contentinfo">
+			
+				<div class="wrapper">
+		
+					<p class="secondary">Built with <a href="http://hugo.spf13.com/">Hugo</a>'s help. Me? <a href="http://twitter.com/leonpaternoster">I am on Twitter</a>.</p>
+					
+				</div> 
+			
+			</footer>
+			
+		</div> 
+	
+	<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
+	
+</html>
+

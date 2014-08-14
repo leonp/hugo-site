@@ -1,0 +1,11 @@
+name = "Leonius"
+license = "MIT"
+source_repo = ""
+description = "An elegant open source and mobile first theme"
+tags = ["blog", "company"]
+features = ["blog", ]
+
+[author]
+    name = "Leon Paternoster"
+    email = "mail@leonpaternoster.com"
+    url = "http://leonpaternoster.com"

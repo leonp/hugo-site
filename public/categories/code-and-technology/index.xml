@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Code-And-Technology on Leon Paternoster </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/categories/code-and-technology/index.xml</link>
+    <language>en-gb</language>
+    
+    
+    <updated>Sun, 08 Jun 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>18th century books looked like smartphones</title>
+      <link>http://localhost:1313/2014/06/18th-century-books-looked-like-smartphones/</link>
+      <pubDate>Sun, 08 Jun 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2014/06/18th-century-books-looked-like-smartphones/</guid>
+      <description>&lt;p&gt;Liked this picture of an 18th century book &lt;cite&gt;Conjectures on Original Composition&lt;/cite&gt; by Edward Young:&lt;figure class=&#34;figure aligncenter&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://leonpaternoster.com/wp-content/uploads/2014/06/small-book.gif&#34; alt=&#34;A narrow 18th century book&#34; width=&#34;399&#34; height=&#34;629&#34; /&gt;&lt;figcaption class=&#34;secondary&#34;&gt;From &lt;a href=&#34;http://www.collisiondetection.net/mt/archives/2014/02/_thats_one_of_t.php&#34;&gt;Collision Detection&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+It shows how resilient we are as readers – we can deal with any ‘difficult’ measure. Another possible similarity between now and then is the sheer &lt;em&gt;mass&lt;/em&gt; of the stuff we&amp;#8217;re publishing; a fact plenty will bemoan, but I rather like this democratic, unpretentious fecundity (he said, pretentiously…) Also chimes with &lt;a href=&#34;http://leonpaternoster.com/2011/01/short-attention-spans-mobile-phones-and-the-future-of-reading/&#34; title=&#34;Short attention spans, mobile phones and the future of reading&#34;&gt;something I wrote many moons ago&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5 ways to use in site search data to improve your website</title>
+      <link>http://localhost:1313/2014/05/5-ways-to-use-in-site-search-data-to-improve-your-website/</link>
+      <pubDate>Sun, 04 May 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2014/05/5-ways-to-use-in-site-search-data-to-improve-your-website/</guid>
+      <description>
+
+&lt;p&gt;Keep your users&amp;#8217; website search queries within easy reach to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;See what’s important to them&lt;/li&gt;
+&lt;li&gt;Learn their language&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And know how your search engine works to make improvements.&lt;/p&gt;
+
+&lt;p&gt;Here are 5 ways I use in site search data:&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;1. Add search data to your CMS&lt;/h2&gt;
+
+&lt;p&gt;It’s pretty easy to set up Google Analytics (GA) to track what your customers search for on your website.&lt;/p&gt;
+
+&lt;p&gt;But it’s better when you have search data to hand. If you’re managing a website you’ll be spending most your day–to–day time in your Content Management System (CMS), so that’s where you should be able to find search data.&lt;/p&gt;
+
+&lt;p&gt;On the &lt;a href=&#34;http://suffolklibraries.co.uk&#34;&gt;Suffolk Libraries&lt;/a&gt; website I use &lt;a href=&#34;http://www.relevanssi.com/&#34;&gt;Relevanssi&lt;/a&gt;, which displays user queries in the WordPress dashboard.&lt;figure class=&#34;figure alignnone&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://leonpaternoster.com/wp-content/uploads/2014/05/search-screenshot.jpg&#34; alt=&#34;Relevanssi search queries&#34; width=&#34;760&#34; height=&#34;599&#34; /&gt;&lt;figcaption class=&#34;secondary&#34;&gt;The Relevanssi user searches page&lt;/figcaption&gt;&lt;/figure&gt;
+I look at search queries whenever I have a couple of minutes spare, so I can make and test little copy and structural changes all the time.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;2. Use search terms to write pages and structure your site&lt;/h2&gt;
+
+&lt;p&gt;If users are searching for the same thing over and over again it could indicate:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You’re missing some important content&lt;/li&gt;
+&lt;li&gt;Customers can’t find important content&lt;/li&gt;
+&lt;li&gt;Or, more simply, what users come to your website to look for (remember: &lt;a href=&#34;http://www.nngroup.com/articles/search-navigation/&#34;&gt;many visitors head straight for your search box&lt;/a&gt; and don’t bother too much with navigation)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Whatever it indicates you might need to take action. Think about:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;writing new content&lt;/li&gt;
+&lt;li&gt;rewriting existing content&lt;/li&gt;
+&lt;li&gt;making important content easier to find (perhaps by providing a shortcut on your home page, or by restructuring/streamlining your existing navigation)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;3. Learn your users’ language&lt;/h2&gt;
+
+&lt;p&gt;Organisations use different words from users to describe the service they offer. Whether the organisational lingo is ‘better ’ than the user’s doesn’t matter.&lt;/p&gt;
+
+&lt;p&gt;You may refer to &lt;em&gt;titles&lt;/em&gt; because the library offers books, films, epubs, CDs, DVDs, streaming and MP3s and it’s a convenient umbrella term. However, when users come to your website they often (but not always) have a particular format in mind. They want to borrow a book, so they search for something like &lt;em&gt;how do I borrow a book online&lt;/em&gt;. So your pages have to contain the terms &lt;em&gt;borrow&lt;/em&gt; and &lt;em&gt;book&lt;/em&gt; (or you need to work on synonyms).&lt;/p&gt;
+
+&lt;p&gt;You’ll see this analysis doesn’t just apply to how you label services. It can get quite complex when users think about processes, such as borrowing and renewing.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;4. Know how your search engine works&lt;/h2&gt;
+
+&lt;p&gt;If you’ve identified a problem and written some content you’re nearly there. The final piece of the jigsaw is understanding how your search engine will find that content and display it.&lt;/p&gt;
+
+&lt;p&gt;You need to think about:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What types of content the engine searches&lt;/li&gt;
+&lt;li&gt;How the engine does relevancy&lt;/li&gt;
+&lt;li&gt;Can it handle synonyms?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_4&#34;&gt;Content types&lt;/h3&gt;
+
+&lt;p&gt;Relevanssi allows you to omit or weight certain post types and comments from search results. So you can stop comments appearing in results, or make sure the engine favours pages over comments.&lt;/p&gt;
+
+&lt;p&gt;At any one time we have several thousand events published on the website (which is probably a problem in and of itself). We’ve therefore taken the decision to exclude events from search results.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_5&#34;&gt;Relevancy&lt;/h3&gt;
+
+&lt;p&gt;A decent search engine attempts to sort search results by how relevant they are to the searcher. The simplest mechanism to control relevancy is through field (title, content, excerpt etc.) weighting.&lt;/p&gt;
+
+&lt;p&gt;For example, you can assign each WordPress post field a score which Relevanssi uses to calculate how relevant the post is. You can use this to make the title field a lot more important than, say, the excerpt.&lt;/p&gt;
+
+&lt;p&gt;After you’ve weighted fields you can make sure titles contain common user search words and terms so they appear among the first results.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_6&#34;&gt;Synonyms&lt;/h3&gt;
+
+&lt;p&gt;We often label &lt;em&gt;things&lt;/em&gt; with different words, which may have slightly different meanings. Words drop out of popular usage over time, so what’s now a &lt;em&gt;bucket&lt;/em&gt; was once, more or less, a &lt;em&gt;pail&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Search engines let you group several words under one meaning. So I could make &lt;em&gt;book&lt;/em&gt; and &lt;em&gt;title&lt;/em&gt; mean the same thing.&lt;/p&gt;
+
+&lt;p&gt;I say &lt;em&gt;could&lt;/em&gt;. I haven’t really used this Relevanssi feature as language usage is so unpredictable. What if someone really wanted to search for something to do with the titles of books rather than books? What if you use &lt;em&gt;title&lt;/em&gt; to mean title rather than &lt;em&gt;book&lt;/em&gt;?&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_7&#34;&gt;5. Test your search set up&lt;/h2&gt;
+
+&lt;p&gt;Search can be a complex beast, especially if you&amp;#8217;ve got lots of options to tweak (which is why using &lt;a href=&#34;https://www.google.com/cse/&#34;&gt;Google Custom Search Engine&lt;/a&gt; often appeals).&lt;/p&gt;
+
+&lt;p&gt;If you’re making extensive or complex changes, test them out on your staging site first, and keep an eye on your search logs and analytics once you&amp;#8217;ve made them live.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ditching gmail is easy and good for you</title>
+      <link>http://localhost:1313/2014/03/ditching-gmail-is-easy-and-good-for-you/</link>
+      <pubDate>Sun, 16 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2014/03/ditching-gmail-is-easy-and-good-for-you/</guid>
+      <description>
+
+&lt;p&gt;I&amp;#8217;ve been uhmming and ahhing over moving to a different email provider for a few years now. I&amp;#8217;ve finally started the process and can report it&amp;#8217;s relatively painless.&lt;/p&gt;
+
+&lt;p&gt;The key is to do things gradually, rather than move everything over lock, stock and barrel and switch gmail off straight away.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Why leave gmail?&lt;/h2&gt;
+
+&lt;p&gt;Like most people, I signed up for gmail when it offered huge amounts of storage compared to other providers. Also, and this is hard to believe, we all thought Google was a nice, trendy kind of company. That was around 2004.&lt;/p&gt;
+
+&lt;p&gt;Since then we&amp;#8217;ve had NSA, austerity and &lt;a href=&#34;http://www.theinquirer.net/inquirer/news/2197482/google-won-t-be-paying-much-uk-tax&#34;&gt;tax avoidance&lt;/a&gt;, &lt;a href=&#34;http://arstechnica.com/business/2013/05/larry-page-wants-you-to-stop-worrying-and-let-him-fix-the-world/&#34;&gt;lunatic Ayn Rand philosophy&lt;/a&gt; and &lt;a href=&#34;http://leonpaternoster.com/2013/11/google-plus-autogenerated-pages-for-businesses-a-pain/&#34; title=&#34;Google plus generated pages cause problems&#34;&gt;Google Plus&lt;/a&gt;. Less and less &lt;em&gt;do no evil&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;You don&amp;#8217;t have to be a conspiracy theorist to worry at Google&amp;#8217;s attempts to control your whole online life (or Apple&amp;#8217;s, or Facebook&amp;#8217;s, for that matter).&lt;figure class=&#34;figure alignnone&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&#34;The Google founders in a car&#34; src=&#34;http://leonpaternoster.com/wp-content/uploads/2014/03/google-owners.jpg&#34; width=&#34;800&#34; height=&#34;345&#34; /&gt;&lt;figcaption class=&#34;secondary&#34;&gt;Larry Page in the driving seat of a Google car&lt;/figcaption&gt;&lt;/figure&gt;
+Over the years I&amp;#8217;ve accumulated around 3GB of email, so moving to another provider *seemed* daunting. It&amp;#8217;s actually really simple, but it will take some time (and just a small bit of effort) and does assume you&amp;#8217;ve prioritised your gmail (by starring important emails, for example).&lt;/p&gt;
+
+&lt;p&gt;The best thing is you&amp;#8217;ll be in control of your email again.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Never delete an email is a rubbish approach&lt;/h2&gt;
+
+&lt;p&gt;Google says there&amp;#8217;s &lt;a href=&#34;http://gmailblog.blogspot.co.uk/2008/04/9-reasons-to-archive.html&#34;&gt;no need to delete your email&lt;/a&gt;. That sounds great, not least because it saves you making a decision when you read an email. Just archive it instead.&lt;/p&gt;
+
+&lt;p&gt;Of course, your email is gold to Google: that&amp;#8217;s where all that juicy online behaviour data sits. The more data Google can mine, the more value it extracts from you.&lt;/p&gt;
+
+&lt;p&gt;But never deleting email makes finding stuff difficult. True, Google has a stellar search engine, but the more email you accumulate the less meaningful search queries become. And the more work you have to do to find important messages.&lt;/p&gt;
+
+&lt;p&gt;The fewer emails you have the easier it is to find, prioritise and act on them.&lt;/p&gt;
+
+&lt;p&gt;Why keep &lt;em&gt;all&lt;/em&gt; those messages? Google will try and scare you into thinking the email you&amp;#8217;ve just deleted &lt;em&gt;may&lt;/em&gt; be vital after all. But I can count the times I&amp;#8217;ve *needed* to find an email I didn&amp;#8217;t immediately star on the fingers of one hand. Important stuff should be obvious by definition.&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;#8217;ve rid yourself of the &lt;em&gt;never delete anything ever&lt;/em&gt; philosophy, you can take the plunge as you won&amp;#8217;t need to import thousands of emails.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Moving from gmail&lt;/h2&gt;
+
+&lt;p&gt;The first thing to realise is you&amp;#8217;re not going to close your Google account straight away. The migration is a gradual process.&lt;/p&gt;
+
+&lt;p&gt;Follow these steps:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Choose an alternative email provider&lt;/strong&gt;. I looked through this excellent &lt;a href=&#34;http://thesimplecomputer.info/free-webmail-for-better-privacy/&#34;&gt;list of secure, privacy aware providers&lt;/a&gt; and plumped for a &lt;a href=&#34;http://unseen.is&#34;&gt;free, 500MB Unseen email account&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Go through your starred email&lt;/strong&gt; and evaluate whether each item really is important. If it is, forward it to your new email address.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create an &lt;em&gt;Important&lt;/em&gt; folder&lt;/strong&gt; in your new email account. Move all the gmail starred emails to this folder.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Autoforward all your new gmail emails to your new account&lt;/strong&gt; (look for &lt;em&gt;Settings &lt;/em&gt;&amp;gt; &lt;em&gt;POP and forwarding&lt;/em&gt;. Google doesn&amp;#8217;t care if you forward email, as long as it sees it.)*&lt;br /&gt;
+*&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Import your gmail contacts&lt;/strong&gt; (&lt;a href=&#34;http://support.unseen.is/031257-How-to-enter-contacts-in-your-address-book&#34;&gt;Unseen can import gmail contacts automatically&lt;/a&gt;, although gmail will block the process until you OK it. Try it once then login to your gmail account to tell Google Unseen is legitimate, then try again.)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Set your autoresponder&lt;/strong&gt; to tell people you&amp;#8217;ve changed email address (via &lt;em&gt;Settings &lt;/em&gt;&lt;em&gt;&amp;gt;&lt;/em&gt;*&lt;strong&gt;&lt;em&gt; &lt;/em&gt;&lt;/strong&gt;General)*&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And that&amp;#8217;s it, to start with. Once you&amp;#8217;ve got your new email address up and running, &lt;strong&gt;make a decision whenever a new email arrives in your new inbox&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If you need to act on it keep it in the Inbox&lt;/li&gt;
+&lt;li&gt;If it contains important reference information (hosting account details, for example) move it to an *Important* folder&lt;/li&gt;
+&lt;li&gt;If it&amp;#8217;s a subscription you don&amp;#8217;t bother reading go and click the unsubscribe link and delete the email. If you want to keep the subscription, update it with your new email address.&lt;/li&gt;
+&lt;li&gt;If it&amp;#8217;s worthless delete it&lt;/li&gt;
+&lt;li&gt;If you&amp;#8217;re unsure move it to an *Archive* folder&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the meantime, you can refer to your old gmail whenever necessary, and if you did need one of those thousands of archived emails, forward it to your new account and file it in the &lt;em&gt;Important&lt;/em&gt; or &lt;em&gt;Archive&lt;/em&gt; folder.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;Turning gmail off&lt;/h2&gt;
+
+&lt;p&gt;Of course, the whole point of this is to ditch gmail. Simply forwarding email to a new service doesn&amp;#8217;t really achieve anything.&lt;/p&gt;
+
+&lt;p&gt;I haven&amp;#8217;t made the final step yet: I want to make sure everything is OK with Unseen. If things don&amp;#8217;t go well, all your email will still be sitting on Google&amp;#8217;s servers, and you can either go back or start the process again.&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;#8217;re happy you can get rid of those thousands of untouched, archived emails, you&amp;#8217;ll need to:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Tell everyone your new email address&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.washingtonpost.com/business/technology/how-to-close-your-google-account/2012/01/25/gIQADAxbQQ_story.html&#34;&gt;Close your gmail account&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And why not get rid of Plus while you&amp;#8217;re at it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A few notes on moving from WordPress to Jekyll</title>
+      <link>http://localhost:1313/2013/06/moving-from-wordpress-to-jekyll/</link>
+      <pubDate>Sun, 23 Jun 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2013/06/moving-from-wordpress-to-jekyll/</guid>
+      <description>
+
+&lt;p&gt;&lt;figure class=&#34;figure alignnone&#34;&gt;&lt;img class=&#34;full-bleed wp-image-32 size-full&#34; src=&#34;http://leonpaternoster.com/wp-content/uploads/2013/06/jekyll.jpg&#34; alt=&#34;Poster of Jekyll turning into Hyde&#34; width=&#34;1020&#34; height=&#34;709&#34; /&gt;&lt;figcaption class=&#34;secondary&#34;&gt;Image from &lt;a href=&#34;http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dr_Jekyll_and_Mr_Hyde_poster_edit2.jpg/1280px-Dr_Jekyll_and_Mr_Hyde_poster_edit2.jpg&#34;&gt;Wikimedia&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+Last night I migrated my blog from WordPress to &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;. As it doesn&amp;#8217;t really make much difference to readers (apart from in one major way, which I&amp;#8217;ll discuss in a bit), I wasn&amp;#8217;t planning to write about it. But the change elicited a few Twitter comments, so here&amp;#8217;s a rough and ready explanation/guide.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;What&amp;#8217;s Jekyll?&lt;/h2&gt;
+
+&lt;p&gt;Jekyll is a static site generator, which means you write posts on your PC in &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt;, which Jekyll converts into a bunch of HTML pages. Once it&amp;#8217;s done that, you upload your site to your web server.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Why use Jekyll?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt;, mainly. WordPress builds HTML pages &lt;em&gt;on your web server&lt;/em&gt; by grabbing information from a database and feeding it through a template. Jekyll looks at Markdown files within a folder, puts them through various &lt;a href=&#34;http://liquidmarkup.org/&#34;&gt;Liquid&lt;/a&gt; templates and generates HTML pages &lt;em&gt;on your PC&lt;/em&gt;. You can view these pages before uploading them to your server (and copy and paste them – there&amp;#8217;s no extracting your content from a database).&lt;/p&gt;
+
+&lt;p&gt;Because a Jekyll–generated site consists of flat HTML files it&amp;#8217;s also a lot &lt;strong&gt;simpler and therefore more robust&lt;/strong&gt; than a WordPress install. There&amp;#8217;s no database, which means no &lt;code&gt;500 internal server error&lt;/code&gt; messages.&lt;/p&gt;
+
+&lt;p&gt;For the same reason, Jekyll is &lt;strong&gt;more secure&lt;/strong&gt; than WordPress. A database can provide access to your website. No database means no way in.&lt;/p&gt;
+
+&lt;p&gt;Finally, the Jekyll &lt;strong&gt;writing workflow&lt;/strong&gt; is simpler and more flexible than WordPress&amp;#8217;s. When I used WordPress I&amp;#8217;d write posts in Markdown, copy the HTML it generated and post it into the WordPress editor. Jekyll converts the Markdown into posts for me, which I then upload to the server. No copying and pasting, logging in and reformatting.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Disadvantages&lt;/h2&gt;
+
+&lt;p&gt;Initially, Jekyll is daunting, especially if you&amp;#8217;re not used to the &lt;strong&gt;command line&lt;/strong&gt;. You can&amp;#8217;t open a program with an icon and windows and buttons. This is what you&amp;#8217;ll be using:&lt;figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/-k8NAPsBc5Cw/Ucc0YEhoc6I/AAAAAAAAB7Y/X_eVVYvNI7E/w600-h457-no/terminal.jpg&#34; alt=&#34;Screenshot of the Linux command line&#34; /&gt;
+&lt;/figure&gt; &lt;p class=&#34;figcaption&#34;&gt;
+  A command line, yesterday
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;To get everything up and running you&amp;#8217;ll need to install Ruby and the Jekyll gems, and write in Markdown. You&amp;#8217;ll also have to use an FTP client (or even run the site through Github).&lt;/p&gt;
+
+&lt;p&gt;Jekyll, Ruby, Markdown, Liquid, FTP… It all sounds frankly geeky. And it is, to a certain extent, but once the system is set up it&amp;#8217;s easy to use. &lt;strong&gt;Markdown is easier to write than HTML&lt;/strong&gt; and gives you far more freedom and control over what your website outputs than a WYSIWYG editor. If you can hack around WordPress template tags, you won&amp;#8217;t struggle with Liquid.&lt;/p&gt;
+
+&lt;p&gt;Similarly, the command line is efficient, and the only things you&amp;#8217;ll need to type are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;cd [path to your site&#39;s folder on your PC]&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;jekyll build --watch&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;jekyll serve&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are, however, a few additional problems. The biggest is &lt;strong&gt;there are no comments&lt;/strong&gt;, because there&amp;#8217;s no database to store them in. Unlike many bloggers who made the move to Jekyll, I like comments. Getting rid of them is a big thing.&lt;/p&gt;
+
+&lt;p&gt;I weighed up the advantages of Jekyll against losing comments and decided to take the plunge anyway. If you have a lot of comments you may feel differently.&lt;/p&gt;
+
+&lt;p&gt;If you &lt;em&gt;do&lt;/em&gt; want comments you can use a third party system like Disqus. Personally, I don&amp;#8217;t like Disqus, but it is possible to export all your existing WordPress comments into it.&lt;/p&gt;
+
+&lt;p&gt;Another big advantage to WordPress is that it lets you publish anywhere with an internet connection. All you need is a browser or the relevant app. With Jekyll you need a PC with Ruby and Jekyll installed on it. You &lt;em&gt;can&lt;/em&gt; store a local site across different PCs using Dropbox, but it&amp;#8217;s a still &lt;strong&gt;a long way from being able to publish a post on a public PC or a smartphone&lt;/strong&gt;. If you&amp;#8217;re blogging about a trip abroad, you&amp;#8217;re not going to use Jekyll.&lt;/p&gt;
+
+&lt;p&gt;Finally, you might miss &lt;strong&gt;WordPress&amp;#8217;s plugins&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;How to plan the migration&lt;/h2&gt;
+
+&lt;p&gt;You&amp;#8217;ll need to think about:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;setting up Ruby&lt;/li&gt;
+&lt;li&gt;setting up Jekyll&lt;/li&gt;
+&lt;li&gt;moving your existing posts from WordPress into Jekyll&lt;/li&gt;
+&lt;li&gt;getting your permalink and image URLs to match up with your existing install&lt;/li&gt;
+&lt;li&gt;creating a sitemap&lt;/li&gt;
+&lt;li&gt;creating an RSS feed&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;toc_4&#34;&gt;Installing Ruby and Jekyll&lt;/h3&gt;
+
+&lt;p&gt;Remember – &lt;strong&gt;you don&amp;#8217;t need to know any Ruby to run Jekyll&lt;/strong&gt;. You just need to install it.&lt;/p&gt;
+
+&lt;p&gt;You won&amp;#8217;t need to set up Ruby on a Mac as it comes pre–installed. Use the &lt;a href=&#34;http://www.ruby-lang.org/en/downloads/&#34;&gt;official Ruby guidelines&lt;/a&gt; if you&amp;#8217;re on Ubuntu or similar, and the &lt;a href=&#34;http://jekyllrb.com/docs/installation/&#34;&gt;Jekyll docs&lt;/a&gt; if you&amp;#8217;re on Ubuntu or Mac.&lt;/p&gt;
+
+&lt;p&gt;I have Jekyll installed on my &lt;strong&gt;Windows&lt;/strong&gt; work laptop. &lt;a href=&#34;http://www.madhur.co.in/blog/2011/09/01/runningjekyllwindows.html&#34;&gt;Running Jekyll on Windows&lt;/a&gt; is the best guide I found, although I did a few things differently:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I installed the Ruby devkit from the same page as the Windows Ruby installer (just make sure you get the right devkit for the right version of Ruby)&lt;/li&gt;
+&lt;li&gt;I didn&amp;#8217;t need to edit my &lt;code&gt;config.yml&lt;/code&gt; file as it already contained the correct path to my Ruby installation&lt;/li&gt;
+&lt;li&gt;I didn&amp;#8217;t bother installing pygments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It&amp;#8217;s also worth remembering you can run a special Ruby command line from Windows. To find this I simply enter &lt;code&gt;command&lt;/code&gt; into the start button search box, which brings up a choice of a standard command line or the Ruby version.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_5&#34;&gt;Moving your existing posts from WordPress to Ruby&lt;/h3&gt;
+
+&lt;p&gt;I couldn&amp;#8217;t get the ‘official’ WordPress importer to work, but &lt;a href=&#34;https://github.com/thomasf/exitwp&#34;&gt;exitwp&lt;/a&gt; was excellent. Just make sure you follow &lt;em&gt;all&lt;/em&gt; the instructions carefully.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, you won&amp;#8217;t just be able to publish your exported markdown posts as is. &lt;strong&gt;They&amp;#8217;ll need &lt;em&gt;some&lt;/em&gt; editing&lt;/strong&gt;. For example, exitwp didn&amp;#8217;t handle WordPress&amp;#8217;s `` very well. I found that a normal post will take around two–five minutes to edit, depending on how many images it contains, which is why I&amp;#8217;ve only published 10 at the time of writing (check your analytics to see what&amp;#8217;s popular).&lt;/p&gt;
+
+&lt;p&gt;You&amp;#8217;ll save yourself a lot of heartache if you can &lt;strong&gt;keep your existing permalink and image path settings&lt;/strong&gt;. It&amp;#8217;s easy to configure pretty URLs in Jekyll (and I published a post on &lt;a href=&#34;http://leonpaternoster.com/2013/06/replicating-year-month-wordpress-urls-in-jekyll/&#34;&gt;keeping the standard YY/MM/post-name structure&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;WordPress stores images and other assets in its &lt;code&gt;wp-content/uploads&lt;/code&gt; folder and organises it according to your chosen permalink structure. exitwp extracts all your assets from your &lt;code&gt;wordpress.xml&lt;/code&gt; file and puts them in a similarly structured folder. So all you need to get images working on your Jekyll site is to copy the &lt;code&gt;uploads&lt;/code&gt; folder to your project&amp;#8217;s folder.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_6&#34;&gt;Creating a sitemap and RSS feed&lt;/h3&gt;
+
+&lt;p&gt;Again, this isn&amp;#8217;t as daunting as it seems. Both these methods worked perfectly:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vito Bottas&amp;#8217;s guide to &lt;a href=&#34;http://vitobotta.com/how-to-migrate-from-wordpress-to-jekyll/#atom-rss-feed&#34;&gt;creating an RSS feed&lt;/a&gt; (just remember to replace all the existing site references if you copy and paste the code)&lt;/li&gt;
+&lt;li&gt;Tobiass Josten&amp;#8217;s guide to &lt;a href=&#34;http://vvv.tobiassjosten.net/jekyll/jekyll-sitemap-without-plugins/&#34;&gt;creating a sitemap XML file&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_7&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;And that&amp;#8217;s all I did. I now have a website that&amp;#8217;s generated on my laptop then uploaded to my server. I&amp;#8217;ve found it easy to publish posts and everything is a lot quicker:&lt;figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-T8befFQMJaI/UcctGFRlmwI/AAAAAAAAB60/FN_9adEUxEQ/w761-h480-no/pingdom.jpg&#34; alt=&#34;Screenshot of my faster than 100% of other sites pingdom result&#34; /&gt;
+&lt;/figure&gt; &lt;p class=&#34;figcaption&#34;&gt;
+  My site put through &lt;a href=&#34;http://tools.pingdom.com/fpt/&#34;&gt;Pingdom&amp;#8217;s tester&lt;/a&gt;
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;If you know the basics of WordPress theme creation then you should know enough to start using Jekyll. It all depends on how important comments and plugins are to you. WordPress isn&amp;#8217;t ‘bloated’–it&amp;#8217;s just more than you need for a simple blog.&lt;/p&gt;
+
+&lt;p&gt;(Incidentally, you may ask &lt;em&gt;why Jekyll?&lt;/em&gt; Well, Mr Hyde is Dr Jekyll&amp;#8217;s ugly, evil alter ego. Jekyll lets you present your civilised face to the world while keeping all your ugly, evil stuff on your PC.)&lt;/p&gt;
+
+&lt;p&gt;*[HTML]: HyperText Markup Language
+ *[FTP]: File Transfer Protocol
+ *[WYSIWYG]: What you see is what you get
+ *[RSS]: Really Simple Syndication
+ *[XML]: Extensible Markup Langauge&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

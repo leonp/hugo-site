@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Language on Leon Paternoster </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/categories/language/index.xml</link>
+    <language>en-gb</language>
+    
+    
+    <updated>Sun, 04 May 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>5 ways to use in site search data to improve your website</title>
+      <link>http://localhost:1313/2014/05/5-ways-to-use-in-site-search-data-to-improve-your-website/</link>
+      <pubDate>Sun, 04 May 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2014/05/5-ways-to-use-in-site-search-data-to-improve-your-website/</guid>
+      <description>
+
+&lt;p&gt;Keep your users&amp;#8217; website search queries within easy reach to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;See what’s important to them&lt;/li&gt;
+&lt;li&gt;Learn their language&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And know how your search engine works to make improvements.&lt;/p&gt;
+
+&lt;p&gt;Here are 5 ways I use in site search data:&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;1. Add search data to your CMS&lt;/h2&gt;
+
+&lt;p&gt;It’s pretty easy to set up Google Analytics (GA) to track what your customers search for on your website.&lt;/p&gt;
+
+&lt;p&gt;But it’s better when you have search data to hand. If you’re managing a website you’ll be spending most your day–to–day time in your Content Management System (CMS), so that’s where you should be able to find search data.&lt;/p&gt;
+
+&lt;p&gt;On the &lt;a href=&#34;http://suffolklibraries.co.uk&#34;&gt;Suffolk Libraries&lt;/a&gt; website I use &lt;a href=&#34;http://www.relevanssi.com/&#34;&gt;Relevanssi&lt;/a&gt;, which displays user queries in the WordPress dashboard.&lt;figure class=&#34;figure alignnone&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://leonpaternoster.com/wp-content/uploads/2014/05/search-screenshot.jpg&#34; alt=&#34;Relevanssi search queries&#34; width=&#34;760&#34; height=&#34;599&#34; /&gt;&lt;figcaption class=&#34;secondary&#34;&gt;The Relevanssi user searches page&lt;/figcaption&gt;&lt;/figure&gt;
+I look at search queries whenever I have a couple of minutes spare, so I can make and test little copy and structural changes all the time.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;2. Use search terms to write pages and structure your site&lt;/h2&gt;
+
+&lt;p&gt;If users are searching for the same thing over and over again it could indicate:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You’re missing some important content&lt;/li&gt;
+&lt;li&gt;Customers can’t find important content&lt;/li&gt;
+&lt;li&gt;Or, more simply, what users come to your website to look for (remember: &lt;a href=&#34;http://www.nngroup.com/articles/search-navigation/&#34;&gt;many visitors head straight for your search box&lt;/a&gt; and don’t bother too much with navigation)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Whatever it indicates you might need to take action. Think about:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;writing new content&lt;/li&gt;
+&lt;li&gt;rewriting existing content&lt;/li&gt;
+&lt;li&gt;making important content easier to find (perhaps by providing a shortcut on your home page, or by restructuring/streamlining your existing navigation)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;3. Learn your users’ language&lt;/h2&gt;
+
+&lt;p&gt;Organisations use different words from users to describe the service they offer. Whether the organisational lingo is ‘better ’ than the user’s doesn’t matter.&lt;/p&gt;
+
+&lt;p&gt;You may refer to &lt;em&gt;titles&lt;/em&gt; because the library offers books, films, epubs, CDs, DVDs, streaming and MP3s and it’s a convenient umbrella term. However, when users come to your website they often (but not always) have a particular format in mind. They want to borrow a book, so they search for something like &lt;em&gt;how do I borrow a book online&lt;/em&gt;. So your pages have to contain the terms &lt;em&gt;borrow&lt;/em&gt; and &lt;em&gt;book&lt;/em&gt; (or you need to work on synonyms).&lt;/p&gt;
+
+&lt;p&gt;You’ll see this analysis doesn’t just apply to how you label services. It can get quite complex when users think about processes, such as borrowing and renewing.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;4. Know how your search engine works&lt;/h2&gt;
+
+&lt;p&gt;If you’ve identified a problem and written some content you’re nearly there. The final piece of the jigsaw is understanding how your search engine will find that content and display it.&lt;/p&gt;
+
+&lt;p&gt;You need to think about:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What types of content the engine searches&lt;/li&gt;
+&lt;li&gt;How the engine does relevancy&lt;/li&gt;
+&lt;li&gt;Can it handle synonyms?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_4&#34;&gt;Content types&lt;/h3&gt;
+
+&lt;p&gt;Relevanssi allows you to omit or weight certain post types and comments from search results. So you can stop comments appearing in results, or make sure the engine favours pages over comments.&lt;/p&gt;
+
+&lt;p&gt;At any one time we have several thousand events published on the website (which is probably a problem in and of itself). We’ve therefore taken the decision to exclude events from search results.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_5&#34;&gt;Relevancy&lt;/h3&gt;
+
+&lt;p&gt;A decent search engine attempts to sort search results by how relevant they are to the searcher. The simplest mechanism to control relevancy is through field (title, content, excerpt etc.) weighting.&lt;/p&gt;
+
+&lt;p&gt;For example, you can assign each WordPress post field a score which Relevanssi uses to calculate how relevant the post is. You can use this to make the title field a lot more important than, say, the excerpt.&lt;/p&gt;
+
+&lt;p&gt;After you’ve weighted fields you can make sure titles contain common user search words and terms so they appear among the first results.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_6&#34;&gt;Synonyms&lt;/h3&gt;
+
+&lt;p&gt;We often label &lt;em&gt;things&lt;/em&gt; with different words, which may have slightly different meanings. Words drop out of popular usage over time, so what’s now a &lt;em&gt;bucket&lt;/em&gt; was once, more or less, a &lt;em&gt;pail&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Search engines let you group several words under one meaning. So I could make &lt;em&gt;book&lt;/em&gt; and &lt;em&gt;title&lt;/em&gt; mean the same thing.&lt;/p&gt;
+
+&lt;p&gt;I say &lt;em&gt;could&lt;/em&gt;. I haven’t really used this Relevanssi feature as language usage is so unpredictable. What if someone really wanted to search for something to do with the titles of books rather than books? What if you use &lt;em&gt;title&lt;/em&gt; to mean title rather than &lt;em&gt;book&lt;/em&gt;?&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_7&#34;&gt;5. Test your search set up&lt;/h2&gt;
+
+&lt;p&gt;Search can be a complex beast, especially if you&amp;#8217;ve got lots of options to tweak (which is why using &lt;a href=&#34;https://www.google.com/cse/&#34;&gt;Google Custom Search Engine&lt;/a&gt; often appeals).&lt;/p&gt;
+
+&lt;p&gt;If you’re making extensive or complex changes, test them out on your staging site first, and keep an eye on your search logs and analytics once you&amp;#8217;ve made them live.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The problem with cookie banners</title>
+      <link>http://localhost:1313/2014/03/the-problem-with-cookie-banners/</link>
+      <pubDate>Sun, 30 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2014/03/the-problem-with-cookie-banners/</guid>
+      <description>
+
+&lt;p&gt;Following &lt;a href=&#34;https://twitter.com/bensmithuk/status/450025400799076353&#34;&gt;Ben’s tweet about CNET’s less than unobtrusive cookie opt–in popup&lt;/a&gt;, I got thinking about these messages.&lt;/p&gt;
+
+&lt;p&gt;They’re now so common you probably don’t even notice them, even when they take up 112px of your laptop screen:&lt;figure class=&#34;figure alignnone&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&#34;Screenshot of the BBC football website with a cookie banner at the top&#34; src=&#34;http://leonpaternoster.com/wp-content/uploads/2014/03/cookie-message.jpg&#34; width=&#34;800&#34; height=&#34;403&#34; /&gt;&lt;figcaption class=&#34;secondary&#34;&gt;The BBC Football website&amp;#8217;s big cookie banner. How many people ignore it and just carry on browsing?&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;4 reasons cookie banners are useless&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Unless you’re putting 3rd party ads on your site, you don’t need them
+:   In June 2012 the EU data protection authorities adopted an “opinion” that:
+:   &amp;gt; First party analytics cookies are not likely to create a privacy risk if websites provide clear information about the cookies to users and privacy safeguards, eg a user friendly mechanism to opt out from any data collection and where they ensure that identifiable information is anonymised. &lt;cite&gt;&lt;a href=&#34;http://ico.org.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies&#34;&gt;ICO Cookie Guidance&lt;/a&gt;&lt;/cite&gt;
+:   In other words, if you’re using Google Analytics to collect data about your own website, you’re fine. You can’t tell &lt;em&gt;who&lt;/em&gt; is using your website through analytics, and “clear” doesn’t mean “big banner on every page”. We interpreted it as an entry in the help menu and &lt;a href=&#34;http://suffolklibraries.co.uk/help/privacy-and-cookies/&#34;&gt;a plainly written explanation of what information we collect and what we use it for&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;They’re a pain
+:   They get in the way. They make your visitors read something, interpret it and then make a decision, when all they wanted to do was read the news.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;So you just ignore them
+:   We associate banners with advertising, and over the years we’ve learned to filter them out. If a cookie banner does catch our attention, it always says exactly the same thing – another reason not to bother reading.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;They use marketese
+:   You see, we’re not putting this cookie on your computer so we can track which pages you visit, tell what device you’re using and figure out where you came to our website from. Oh no, it’s to &lt;em&gt;improve your experience&lt;/em&gt;.
+:   Of course, we may well use all this information to improve your experience of our website. But that’s not what the cookies themselves do. And we could use all that information for a host of other purposes.
+:   If there’s one area where we need to write plainly it’s privacy. &lt;a href=&#34;http://leonpaternoster.com/2014/02/mozilla-is-selling-ads-although-its-coy-about-telling-us/&#34; title=&#34;Mozilla is selling ads, although it’s coy about telling us&#34;&gt;Talk of user experience is often a smokescreen&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;A bodged law&lt;/h2&gt;
+
+&lt;p&gt;It is wrong for us to put files on our website visitors’ computers without their explicit permission.&lt;/p&gt;
+
+&lt;p&gt;The law should have made it illegal to set cookies without visitors opting in. Instead, we’re allowed to assume they’re OK with it.&lt;/p&gt;
+
+&lt;p&gt;Of course, if we had a proper law no–one would bother opting in, and a big bit of the internet would break.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mozilla, money, adverts and corporate speak</title>
+      <link>http://localhost:1313/2014/02/mozilla-money-adverts-and-corporate-speak/</link>
+      <pubDate>Fri, 21 Feb 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2014/02/mozilla-money-adverts-and-corporate-speak/</guid>
+      <description>
+
+&lt;p&gt;What to make of Mozilla.&lt;/p&gt;
+
+&lt;p&gt;Why? Well, Mozilla gave us Firefox – my browser of choice on Windows, Debian and Android – which slayed Internet Explorer. The online lives of millions have been improved immeasurably by IE&amp;#8217;s demise. Too bad for Firefox Chrome mopped up to become the planet&amp;#8217;s most popular browser.&lt;/p&gt;
+
+&lt;p&gt;Mozilla, unlike Google, is a not-for-profit organisation, which means it builds Firefox so you can browse the internet and &lt;em&gt;control&lt;/em&gt; how you browse. Mozilla&amp;#8217;s only motive is to build an excellent browser for its users. That&amp;#8217;s a simple, useful and transparent relationship.&lt;/p&gt;
+
+&lt;p&gt;Your relationship with Chrome and Google is murkier. While Chrome is free (and a better browser than Firefox), Google&amp;#8217;s ultimate motive is to direct you to its advertisers&amp;#8217; products and/or sell information about you and your browsing habits to advertisers. That&amp;#8217;s why Chrome made the address bar a search box as well.&lt;/p&gt;
+
+&lt;p&gt;Making Chrome a shithot browser &lt;em&gt;helps&lt;/em&gt; Google make money, but that&amp;#8217;s not its &lt;em&gt;raison d&amp;#8217;etre&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Adverts and corporate speak at Mozilla&lt;/h2&gt;
+
+&lt;p&gt;So until recently I had a romantic view of Mozilla. I assumed it was a smallish operation, staffed by talented designers and engineers and a few business types keeping everything running smoothly. I didn&amp;#8217;t even think about stuff like income until I read this post on &lt;a href=&#34;https://blog.mozilla.org/advancingcontent/2014/02/11/publisher-transformation-with-users-at-the-center/&#34;&gt;plans to put ads on the Firefox start screen&lt;/a&gt;. (Note: Mozilla pulled the post, but you can &lt;a href=&#34;https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fblog.mozilla.org%2Fadvancingcontent%2F2014%2F02%2F11%2Fpublisher-transformation-with-users-at-the-center%2F&#34;&gt;grab an archived Google copy&lt;/a&gt;. So it goes.)&lt;/p&gt;
+
+&lt;p&gt;I don&amp;#8217;t think ads sit well with a not for profit, but &lt;a href=&#34;http://leonpaternoster.com/2014/02/mozilla-is-selling-ads-although-its-coy-about-telling-us/&#34; title=&#34;Mozilla is selling ads, although it’s coy about telling us&#34;&gt;the article&amp;#8217;s language concerns me even more&lt;/a&gt;. Corporate and obfuscatory. A tech insider armed with some slick phrases and bad news. I sniffed money.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Mozilla, selling search to Google and (lots of) money&lt;/h2&gt;
+
+&lt;p&gt;The reason you put ads in something is to generate income. Whatever Mozilla claim, it&amp;#8217;s not to make your product better for users. So let&amp;#8217;s take a look at Mozilla&amp;#8217;s money.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://thenextweb.com/insider/2013/11/21/mozillas-reliance-google-increasing-90-2012-revenue-came-one-source/&#34;&gt;The majority of Mozilla&amp;#8217;s income comes from a deal it&amp;#8217;s struck with Google&lt;/a&gt;. When you tap a search into Firefox it sends it to Google. In turn, Google makes money whenever anyone clicks on an ad in its search results. As &lt;a href=&#34;http://www.w3counter.com/globalstats.php?year=2014&amp;amp;month=1&#34;&gt;Firefox still accounts for just over 18% of the world&amp;#8217;s internet traffic&lt;/a&gt;, that&amp;#8217;s presumably a lot of money.&lt;/p&gt;
+
+&lt;p&gt;This has been the case for several years, but you might ask whether it&amp;#8217;s in the user&amp;#8217;s best interests. I&amp;#8217;m not sure. &lt;a href=&#34;http://inlibrary.suffolklibraries.co.uk&#34;&gt;Our library PC home page&lt;/a&gt; features a big Google search box because our PC users more often than not equate &lt;em&gt;search the internet&lt;/em&gt; with &lt;em&gt;search Google&lt;/em&gt;, and the first thing they do when they login to a PC is perform a search.&lt;/p&gt;
+
+&lt;p&gt;We don&amp;#8217;t make money from search (perhaps we should) – we&amp;#8217;re doing what we think library users want us to do. If they wanted something different, we could change search engine easily, perhaps to &lt;a href=&#34;https://duckduckgo.com/&#34;&gt;Duck Duck Go&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mozilla can&amp;#8217;t change, so whether Google would be most people&amp;#8217;s &lt;em&gt;choice&lt;/em&gt; of search engine anyway is a moot point.&lt;/p&gt;
+
+&lt;p&gt;Again, Google provides the best product, but being the best search engine is not an end in itself. The ultimate aim is to get people to click on adverts, and &lt;a href=&#34;http://leonpaternoster.com/2013/11/google-plus-autogenerated-pages-for-businesses-a-pain/&#34; title=&#34;Google plus generated pages cause problems&#34;&gt;businesses on Google Plus&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;m not sure this sits well with a not for profit, and I&amp;#8217;d argue it stretches points 2, 4, 5 and 8 of the &lt;a href=&#34;https://www.mozilla.org/en-US/about/manifesto/&#34;&gt;Mozilla Manifesto&lt;/a&gt; (but hey, point 9 makes everything OK, and the whole thing&amp;#8217;s too fluffy anyway).&lt;/p&gt;
+
+&lt;p&gt;Still, Google accounts for over 90% of Mozilla&amp;#8217;s income, which means it&amp;#8217;s in the odd situation of being funded by its biggest competitor. &lt;a href=&#34;http://www.w3counter.com/trends&#34;&gt;Chrome&amp;#8217;s browser share has increased at Firefox&amp;#8217;s expense&lt;/a&gt;. And the actual amount? Well, that&amp;#8217;s subject to &lt;a href=&#34;http://www.mozilla.org/en-US/foundation/annualreport/2012/faq/&#34;&gt;&lt;q&gt;traditional confidentiality requirements, and we’re [Mozilla] not at liberty to disclose them&lt;/q&gt;&lt;/a&gt;, but it&amp;#8217;s quite easy to work out. It&amp;#8217;s &lt;strong&gt;just under $300m a year&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Which raises more questions.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;What is Mozilla for?&lt;/h2&gt;
+
+&lt;p&gt;Not for profits have a contradictory relationship with money. On the one hand they exist for an explicitly noncommercial purpose, while on the other they&amp;#8217;re often under pressure to increase income.&lt;/p&gt;
+
+&lt;p&gt;How they negotiate this paradox is fundamental. If a not for profit makes lots of money but loses sight of its original purpose it becomes a bog standard business.&lt;/p&gt;
+
+&lt;p&gt;At the moment, Mozilla &lt;em&gt;feels&lt;/em&gt; too much like a commercial organisation. It raises lots of income, but sells one of its fundamental features in the process. It&amp;#8217;s making noises about selling ads on its start page. It signs nondisclosure agreements with its partners. It speaks in pettifogging, corporate lingo. All while asking for donations (and getting $800,000 a year).&lt;/p&gt;
+
+&lt;p&gt;300 million. I guess developing Firefox, Thunderbird and Firefox OS doesn&amp;#8217;t come cheap, and nor do &lt;a href=&#34;http://spiekermann.com/en/&#34;&gt;Erik Spiekermann&lt;/a&gt; and &lt;a href=&#34;http://clearleft.com/made/mozilla-add-ons&#34;&gt;Clear Left&lt;/a&gt;. Just because you&amp;#8217;re a not for profit doesn&amp;#8217;t mean you shouldn&amp;#8217;t get the best in design. But that still seems an awful lot, and I bet a fair old wodge goes on employing some &lt;a href=&#34;http://about.me/darrenjayherman&#34;&gt;expensive marketing and advertising staff&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Again, no reason why Mozilla shouldn&amp;#8217;t hire the best, but it&amp;#8217;d be a tragedy if it lost sight of what it&amp;#8217;s for in the process. Let&amp;#8217;s hope the corporate bods will learn as they go along, but &lt;a href=&#34;https://blog.mozilla.org/blog/2014/02/13/revenue-diversification-the-mozilla-way/&#34;&gt;don&amp;#8217;t hold your breath&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mozilla is selling ads, although it&#39;s coy about telling us</title>
+      <link>http://localhost:1313/2014/02/mozilla-is-selling-ads-although-its-coy-about-telling-us/</link>
+      <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2014/02/mozilla-is-selling-ads-although-its-coy-about-telling-us/</guid>
+      <description>&lt;p&gt;Tell me — when you &lt;a href=&#34;https://blog.mozilla.org/advancingcontent/2014/02/11/publisher-transformation-with-users-at-the-center/&#34;&gt;read this blog post&lt;/a&gt; (note: it was pulled by Mozilla, but you can &lt;a href=&#34;https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fblog.mozilla.org%2Fadvancingcontent%2F2014%2F02%2F11%2Fpublisher-transformation-with-users-at-the-center%2F&#34;&gt;grab an archived page&lt;/a&gt;), what&amp;#8217;s the most important thing it conveys?&lt;/p&gt;
+
+&lt;p&gt;Finished it? Good.&lt;/p&gt;
+
+&lt;p&gt;So, was it:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mozilla designs things for its users?&lt;/li&gt;
+&lt;li&gt;Mozilla is improving its start page?&lt;/li&gt;
+&lt;li&gt;Mozilla is selling ads on its start page?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Which of those statements do you think Mozilla wants you to remember?&lt;/p&gt;
+
+&lt;p&gt;And which is the biggest news to Mozilla blog readers?&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#8217;s that article in numbers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Number of paragraphs before adverts are mentioned: 7&lt;/li&gt;
+&lt;li&gt;Number of words in sentence announcing adverts: 39&lt;/li&gt;
+&lt;li&gt;Number of words in said sentence before adverts are mentioned: 26&lt;/li&gt;
+&lt;li&gt;Number of features mentioned before adverts in said sentence: 2&lt;/li&gt;
+&lt;li&gt;Number of times the word “advert” is used: 0&lt;/li&gt;
+&lt;li&gt;Number of times the word “user” or “users” is used: 12&lt;/li&gt;
+&lt;li&gt;Number of buzzword verbs: 9 (“align”, “deliver” etc.)&lt;/li&gt;
+&lt;li&gt;Number of references to irrelevant business meetings: 1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You get the picture.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;m not sure what I think about Mozilla selling ads. It &lt;em&gt;feels&lt;/em&gt; wrong, but perhaps it wouldn&amp;#8217;t bother me – I&amp;#8217;d just ignore start page ads just as I ignore every other ad I see on the internet. I would miss history tiles, especially on Firefox mobile.&lt;/p&gt;
+
+&lt;p&gt;What does bother me is the confusing, buzzword ridden language they use to tell us something relatively important. Has it always been this way? Or is it something new? Whatever the answer, it makes me suspicious.&lt;/p&gt;
+
+&lt;p&gt;(Yes, I do like &lt;a href=&#34;http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/&#34;&gt;Fira Sans&lt;/a&gt;, though.)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Short attention spans, mobile phones and the future of reading</title>
+      <link>http://localhost:1313/2011/01/short-attention-spans-mobile-phones-and-the-future-of-reading/</link>
+      <pubDate>Mon, 21 Nov 2011 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2011/01/short-attention-spans-mobile-phones-and-the-future-of-reading/</guid>
+      <description>
+
+&lt;p&gt;I bet you were expecting a doom filled post, rather similar to &lt;a href=&#34;http://idratherbewriting.com/2011/01/21/contemporary-reading-behaviors-favor-short-formats/&#34;&gt;this excellent, long meditation on short formats and modern reading behaviours&lt;/a&gt;. But not a word of it; reading is, I think, in rude health.&lt;/p&gt;
+
+&lt;p&gt;In fact I’m willing to bet that people are reading — and writing — (whether it’s Twitter updates, Facebook pages, blogs or news stories) more than ever.&lt;/p&gt;
+
+&lt;p&gt;This is all conjecture, not science, of course.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;The web doesn’t have the power to reduce attention spans&lt;/h2&gt;
+
+&lt;p&gt;And how could it? Where’s the cause and effect? The same attention span argument has been made &lt;a href=&#34;http://en.wikipedia.org/wiki/History_of_television#Television_sets&#34;&gt;since 1928&lt;/a&gt;, and probably before that.&lt;/p&gt;
+
+&lt;p&gt;However, people do scan and skim texts when reading from a laptop/desktop monitor. The reasons for this aren’t down to shortened attention spans, per se. Rather, it’s:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Poor design&lt;/strong&gt;: laptop and desktop monitors are too wide. 16 pixel text only needs a 5-650 pixel wide column to attain a comfortable measure. What to do with the extra 450 pixels? How to fill those exciting grids? There are lots and lots of widgets out there. Adverts too. All of them next to useless for the reader who simply wants to find out something.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Glare&lt;/strong&gt;: anyone who works on a computer for a whole day knows how tired their eyes get. Try reading a long form article written like a Victorian novel after working in Excel for four hours to see what I mean. It’s next to impossible to read in a linear fashion, word by word.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Context&lt;/strong&gt;: if visitors are &lt;em&gt;shopping&lt;/em&gt; rather than &lt;em&gt;reading&lt;/em&gt; they’re not, unsurprisingly, reading; they’re on a mission to gather prices and information. However, if they are reading, and you serve them legible text, they’ll, well, read it. Even God (who preaches the brief missive) tells us that &lt;a href=&#34;http://www.useit.com/alertbox/articles-not-blogs.html&#34;&gt;long form texts are sometimes appropriate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My experience at work indicates that people are willing to engage with longer texts — they’ll certainly complain if they can’t find lots of information about what we do. Sometimes, they’ll complain because they can’t be bothered to search for the information (“have you looked on the website?” — “erm, uh, yeeaahhh!”), other times because it hasn’t been organised or presented well (as Nielsen states, you should still be using headings, bolded keywords, bullets and short paragraphs, even in long form texts). However, a lot of the time it’s because the detail simply isn’t there — detail that demands a longer text.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Mobile phones improve attention spans&lt;/h2&gt;
+
+&lt;p&gt;You’re probably familiar with the image of a sullen teenager, disengaged from his parents (and fine literature, no doubt), staring into the eldritch light of his mobile phone. For many, this represents the end of Western civilisation, &lt;a href=&#34;http://www.poemhunter.com/poem/television/&#34;&gt;just as the TV did in the past&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;However, I confidently predict that mobile devices will be good for attention spans because:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The design restraints will result in more readable texts; there’s nowhere to put endless widgets, adverts or even a sidebar. All the reader can focus on is the text.&lt;/li&gt;
+&lt;li&gt;It’s more comfortable reading from a mobile device than laptop or desktop monitor. You can recline, move the screen around, even take it with you from room to room.&lt;/li&gt;
+&lt;li&gt;They offer more opportunities and time for reading, which is why you see iPads and Kindles on the commuter train&lt;/li&gt;
+&lt;li&gt;Some devices (e.g. Kindle) resolve the glare problem&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Of course, there’s no objective evidence in this (longish) article. All I can say is that I read more, and in more detail, than I did in the past, and I’ve spent a &lt;em&gt;lot&lt;/em&gt; of time online over the last few years. And I’m also reading more of &lt;a href=&#34;http://m.guardian.co.uk/&#34;&gt;The Guardian&lt;/a&gt; than ever on my humble mobile device.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

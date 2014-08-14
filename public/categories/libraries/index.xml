@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Libraries on Leon Paternoster </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/categories/libraries/index.xml</link>
+    <language>en-gb</language>
+    
+    
+    <updated>Wed, 02 Jul 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Chromebooks and wifi in the library (this is the future)</title>
+      <link>http://localhost:1313/2014/07/chromebooks-and-wifi-in-the-library-this-is-the-future/</link>
+      <pubDate>Wed, 02 Jul 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2014/07/chromebooks-and-wifi-in-the-library-this-is-the-future/</guid>
+      <description>&lt;p&gt;Over the last few months we’ve been making two big changes to Suffolk libraries&amp;#8217; IT. Firstly, we’ve been installing wifi, so customers can come into a library and use their phone/laptop/tablet for free.&lt;/p&gt;
+
+&lt;p&gt;We’re doing the final testing at &lt;a href=&#34;http://suffolklibraries.co.uk/branches/ipswich-county-library/&#34;&gt;Ipswich County&lt;/a&gt;, Suffolk’s biggest library. You can come in and use the (very quick) wifi now – we should officially ‘launch’ the service in the next couple of weeks.&lt;/p&gt;
+
+&lt;p&gt;For years, libraries have provided slow, out of date Windows PCs. Customers come in and sit at banks of ugly tower computers and wait for 15 minutes while their PC logs in, before checking email, word processing, going on Facebook etc.&lt;/p&gt;
+
+&lt;p&gt;We’re finally replacing these PCs with a mix of high spec Dells and, more interestingly, Chrome PCs and Chromebooks.&lt;figure class=&#34;figure aligncenter&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;full-bleed&#34; src=&#34;http://leonpaternoster.com/wp-content/uploads/2014/07/chromebook.jpg&#34; alt=&#34;A laptop on a desk&#34; width=&#34;860&#34; height=&#34;645&#34; /&gt;&lt;figcaption class=&#34;secondary&#34;&gt;A Chromebook. Small, light and very fast: takes about 5s to login&lt;/figcaption&gt;&lt;/figure&gt;
+So I’m writing this post (in my lunch, natch) in County Library’s fabulous Nortgate Room, under the gaze of a stainedglass Francis Bacon. I’m using a superquick laptop provided by the library and some nifty, free wifi.&lt;figure class=&#34;figure aligncenter&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;full-bleed&#34; src=&#34;http://leonpaternoster.com/wp-content/uploads/2014/07/bacon.jpg&#34; alt=&#34;Stained glass window of Francis Bacon&#34; width=&#34;860&#34; height=&#34;645&#34; /&gt;&lt;figcaption class=&#34;secondary&#34;&gt;Ipswich County Library Northgate Room (it&amp;#8217;s Francis Bacon, not Lord Blackadder)&lt;/figcaption&gt;&lt;/figure&gt;
+This has to be the future of libraries – a free, non-commercial, flexible space where you can relax and spend a couple of hours. It beats going to a coffee shop hands down.&lt;/p&gt;
+
+&lt;p&gt;Now, if we did just have a cafe here too…&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Responsive versus works in IE6</title>
+      <link>http://localhost:1313/2014/03/responsive-versus-works-in-ie6/</link>
+      <pubDate>Sat, 08 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2014/03/responsive-versus-works-in-ie6/</guid>
+      <description>&lt;p&gt;Stats from 4 days’ worth of &lt;a href=&#34;http://suffolklibraries.co.uk&#34;&gt;Suffolk Libraries&lt;/a&gt; website traffic:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Proportion of visits from mobiles and tablets: 1 in 4&lt;/li&gt;
+&lt;li&gt;Proportion of visits using Internet Explorer 6: 1 in 500&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Suffolk Libraries website is responsive. Cost to build: £0 – I did it, so I guess there’s my web manager salary, but I do all the other web stuff too.&lt;/p&gt;
+
+&lt;p&gt;Let’s look at another library service’s website (or, more specifically, another library’s website): &lt;a href=&#34;http://www.libraryofbirmingham.com/&#34;&gt;The Library of Birmingham&lt;/a&gt;. &lt;a href=&#34;http://www.bbc.co.uk/news/uk-england-birmingham-25033651&#34;&gt;Cost to build £1.2m&lt;/a&gt;. Annual running costs £190,000. I don’t earn £190,000 a year.&lt;/p&gt;
+
+&lt;p&gt;Outsourcing isn’t always cheaper.&lt;/p&gt;
+
+&lt;p&gt;The Library of Birmingham’s website isn’t responsive.&lt;/p&gt;
+
+&lt;p&gt;It does, however, work in Internet Explorer 6. &lt;a href=&#34;https://www.whatdotheyknow.com/request/179465/response/452527/attach/html/3/FOI%209309%20Parry%20Final%20response%20Attach%201.doc.html&#34;&gt;They did ask for it to work in IE6&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Which is the most accessible?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

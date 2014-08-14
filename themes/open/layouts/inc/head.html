@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="en-gb">
+
+	<head>
+	
+		<meta charset="utf-8">
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>{{ .Title }} &#8211; {{ .Site.Title }}</title>
+		
+		<script src="//use.typekit.net/coi4xnv.js"></script>
+		<script>try{Typekit.load();}catch(e){}</script>
+		
+		<link rel="stylesheet" href="/css/style.css">
+		
+		<link href="/index.xml" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
+
+    
+		
+	</head>
+	
+	<body>
+	
+		<div class="wrapper">
+	
+			<header class="banner-header clearfix" role="banner">
+	
+			<h1 class="banner-header-title"><a href="{{ .Site.BaseUrl }}">{{ .Site.Title }}</a></h1>
+
+			<nav class="banner-header-nav" role="navigation" id="navigation">
+
+				<ul class="banner-header-nav-list">
+
+				{{ range .Site.Menus.main }}
+
+					<li class="banner-header-nav-list-item"><a href="{{.Url}}">{{ .Name }}</a></li>
+
+				{{end}}
+ 
+				</ul>
+	
+			</nav>
+			
+		</header>
+		
+		<main id="content" role="main"> 

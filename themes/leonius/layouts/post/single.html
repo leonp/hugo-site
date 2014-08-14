@@ -1,0 +1,31 @@
+{{ template "theme/inc/head.html" . }}
+ 
+	<article class="entry" role="article">
+
+		<header class="entry-header">
+
+			<h1 class="entry-header-title">{{ .Title }}</h1>
+			
+			<div class="entry-header-meta">
+			
+				<p class="secondary">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+				
+			</div>
+			
+		</header>
+		
+		<div class="entry-content">
+		
+			{{ .Content }}
+			
+		</div>
+		
+		<footer class="entry-footer">
+		
+			<p><a href="/post">All posts &rarr;</a></p>
+			
+		</footer>
+		
+	</article>
+
+{{ template "theme/inc/footer.html" . }}

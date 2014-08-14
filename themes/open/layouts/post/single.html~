@@ -1,0 +1,7 @@
+{{ template "theme/inc/head.html" . }}
+ 
+	<h1>{{ .Title }}</h1>
+
+	{{ .Content }}
+
+{{ template "theme/inc/footer.html" . }}

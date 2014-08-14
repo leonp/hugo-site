@@ -1,0 +1,19 @@
+{{ template "theme/inc/head.html" . }}
+ 
+	<article class="entry" role="article">
+
+		<header class="entry-header">
+
+			<h1 class="entry-header-title">{{ .Title }}</h1>
+			
+		</header>
+		
+		<div class="entry-content">
+		
+			{{ .Content }}
+			
+		</div>
+		
+	</article>
+
+{{ template "theme/inc/footer.html" . }}

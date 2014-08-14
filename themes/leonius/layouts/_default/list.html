@@ -1,0 +1,45 @@
+{{ template "theme/inc/head.html" . }}
+
+	<article class="entry" role="article">
+
+		<header class="entry-header">
+
+			<h1 class="entry-header-title">{{ .Title }}</h1>
+			
+		</header>
+		
+		<div class="entry-content">
+
+			<ul class="link-list">
+
+				{{ range .Data.Pages }}
+		
+				<li class="link-list-item clearfix">
+				
+					<div class="g-row">
+					
+						<div class="g-col-left g-col2">
+					
+							<span class="link-list-item-title"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+							
+						</div>
+						
+						<div class="g-col-left g-col1 g-col-last">
+						
+							<span class="link-list-item-date"><time pubdate> {{ .Date.Format "Mon, Jan 2, 2006" }}</time></span>
+						
+						</div>
+						
+					</div> <!-- end .g-row -->
+					
+				</li>
+	
+				{{ end }}
+	
+			</ul>
+
+		</div> <!-- end .entry-content -->
+		
+	</article>
+
+{{ template "theme/inc/footer.html" . }}

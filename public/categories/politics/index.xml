@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Politics on Leon Paternoster </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/categories/politics/index.xml</link>
+    <language>en-gb</language>
+    
+    
+    <updated>Thu, 24 Jul 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Households, deficits and belief</title>
+      <link>http://localhost:1313/2014/07/households-deficits-and-belief/</link>
+      <pubDate>Thu, 24 Jul 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2014/07/households-deficits-and-belief/</guid>
+      <description>&lt;p&gt;I know next to nothing about economics. I&amp;#8217;ve read the odd bit of Marx and lots of modern blogs, which are surprisingly often about Mr Marx, but I didn&amp;#8217;t study the subject and I haven&amp;#8217;t read Piketty&amp;#8217;s &lt;cite&gt;Capital in the Twenty-First Century&lt;/cite&gt;.&lt;/p&gt;
+
+&lt;p&gt;I can however say with confidence that my &amp;#8220;household budget&amp;#8221; and the UK&amp;#8217;s economy are entirely different things. I can&amp;#8217;t print money, for one thing.&lt;/p&gt;
+
+&lt;p&gt;Of course, right leaning politicians like to make the connection between small, personal budgets and the economy because they can then say &amp;#8220;just like you, we need to cut back and balance the books, and you can&amp;#8217;t be paid much&amp;#8221;. And because the English like a bit of belt-tightening rhetoric and need to think poor people are a bunch of wasters, everyone thinks it&amp;#8217;s brilliant and your children&amp;#8217;s centre closes. So it goes.&lt;/p&gt;
+
+&lt;p&gt;I still don&amp;#8217;t understand where fuck off huge mortgages and tax cuts for really rich people fit into this. I guess economists can explain.&lt;/p&gt;
+
+&lt;p&gt;I therefore get why &lt;a href=&#34;http://www.bbc.co.uk/news/uk-politics-28389816&#34;&gt;Ed Miliband needs to bang on about balancing national budgets&lt;/a&gt;. It&amp;#8217;s electoral tactics. But does he really &lt;em&gt;believe&lt;/em&gt; it?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2014/07/internalizing-constraints.html&#34;&gt;Chris Dillow&lt;/a&gt; and &lt;a href=&#34;http://www.taxresearch.org.uk/Blog/2014/07/22/do-you-have-to-put-your-head-in-the-sand-to-want-to-be-chancellor/&#34;&gt;Richard Murphy&lt;/a&gt; have raised this point over the last week. Dillow, who often writes about the psychology of the economy, described comparisons between personal budgets and national economies as &lt;q&gt;the economic illiteracy of the media and voters who have swallowed half&amp;#8211;witted guff about balancing the nation&amp;#8217;s books&lt;/q&gt; &amp;#8211; but he fears Miliband might have come to actually believe the guff.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#8217;s the old New Labour approach of repeating the same message until everyone believes it. Including yourself.&lt;/p&gt;
+
+&lt;p&gt;Does the Labour Party rank and file believe it too? Frightening not only because it&amp;#8217;s nonsense, but also, as Dillow argues, because it always ends in disappointment. After 13 years of a Labour government a coalition was able to dismantle pretty much the whole welfare state as we know it in a couple of years.&lt;/p&gt;
+
+&lt;p&gt;The Labour Party &lt;em&gt;is&lt;/em&gt; largely pragmatic because it thinks the electorate in marginal seats is fundamentally conservative in its outlook. But none of the members I know joined the party to bang on about making cuts to public services. However, there are several MPs who seem to &lt;em&gt;believe&lt;/em&gt; this austerity rhetoric, &lt;a href=&#34;https://twitter.com/theloveofwilde/status/490916605199917057&#34;&gt;even the odd activist&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There&amp;#8217;s something in Labour that says you have to &lt;em&gt;believe&lt;/em&gt; in the argument behind a policy, even when it&amp;#8217;s apostasy. One of the many advantages the Tory party holds over Labour is its understanding that it&amp;#8217;s all tactics: Only the goal matters.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design Observer design not for us</title>
+      <link>http://localhost:1313/2014/07/design-observer-design-not-for-us/</link>
+      <pubDate>Sat, 05 Jul 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2014/07/design-observer-design-not-for-us/</guid>
+      <description>&lt;p&gt;History repeats itself quickly in the world of web design – it seems like only yesterday &lt;a href=&#34;http://blog.fawny.org/2009/08/12/mock-do-1/&#34;&gt;we were lambasting &lt;cite&gt;Design Observer&lt;/cite&gt; for its new–not–at–all–new design&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Fast forward to 2014 and we&amp;#8217;re making the &lt;a href=&#34;http://typographica.org/on-typography/questions-for-the-new-design-observer/&#34;&gt;same criticisms&lt;/a&gt;: poor font choice, tiny, indistinct type, bugginess. Add some really slow loading and unresponsiveness and you have 2014&amp;#8242;s version (although to be fair the site sort of adjusts to my Nexus phone – I&amp;#8217;m guessing it sniffs rather than scales).&lt;figure class=&#34;figure aligncenter&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://designobserver.com&#34;&gt;&lt;img class=&#34;full-bleed&#34; src=&#34;http://leonpaternoster.com/wp-content/uploads/2014/07/do.jpg&#34; alt=&#34;Screenshot of the Design Observer website&#34; width=&#34;860&#34; height=&#34;444&#34; /&gt;&lt;/a&gt;&lt;figcaption class=&#34;secondary&#34;&gt;&lt;cite&gt;Design Observer&lt;/cite&gt;: Let me count the ways&lt;/figcaption&gt;&lt;/figure&gt;
+And yet. This website wasn&amp;#8217;t really written for me. I&amp;#8217;d go as far as to say I don&amp;#8217;t even understand it.&lt;/p&gt;
+
+&lt;p&gt;Who exactly is it for? Older design veterans who don&amp;#8217;t deal in the grubby functionality of fluid sized screens (i.e. &lt;a href=&#34;https://news.layervault.com/comments/78785&#34;&gt;designers who aren&amp;#8217;t working class&lt;/a&gt;)? If that is the case then – actual crapness (the huge fixed header, the strange dropdown at the top of the screen etc.) aside – it may do its job well enough.&lt;/p&gt;
+
+&lt;p&gt;If you dig seeing paragraphs set in Archer on screen, and like small blocks of text, and spend your day on a Mac with a large screen, &lt;cite&gt;Design Observer&lt;/cite&gt; has been &lt;em&gt;designed&lt;/em&gt; just for you.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The longest day</title>
+      <link>http://localhost:1313/2014/06/the-longest-day/</link>
+      <pubDate>Sat, 21 Jun 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2014/06/the-longest-day/</guid>
+      <description>&lt;p&gt;&lt;figure class=&#34;figure alignnone&#34;&gt;&lt;img class=&#34;full-bleed&#34; src=&#34;http://leonpaternoster.com/wp-content/uploads/2014/06/stonehenge.jpeg&#34; alt=&#34;Stonehenge&#34; width=&#34;850&#34; height=&#34;531&#34; /&gt;&lt;figcaption class=&#34;secondary&#34;&gt;A circle of old stones in Wiltshire&lt;/figcaption&gt;&lt;/figure&gt;
+I loved this &lt;a href=&#34;http://www.theguardian.com/books/2014/jun/21/from-heritage-to-heretics-stonehenge-making-history&#34;&gt;Will Self piece on English Heritage and its demerging and museumification of Stonehenge&lt;/a&gt; (both are words because authors create words).&lt;/p&gt;
+
+&lt;p&gt;Two things:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Stonehenge stands at the centre of a complex web of ideas linking ownership, knowledge and consumption.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So Stonehenge’s meaning changes over time, and doesn’t become fixed in, say, 1920. Fittingly, we now have a neoliberal circle of stones.&lt;/p&gt;
+
+&lt;p&gt;And:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Given the vast timescale over which humans have interacted with the English landscape, it seems plausible that archaeologists of the distant future will concoct some narrative to unify these works with the stones themselves, perhaps one based on the astronomical alignment of the tunnel with the decayed footings of some vast M-shaped golden arches that were mysteriously erected some decades later.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You can picture deadly earnest archaeologists, trowels dangling, theorising with a glint in their eye over MacDonalds and leylines on a BBC4 Stonehenge Watch in 3145.&lt;/p&gt;
+
+&lt;p&gt;Despite its fantastic age Stonehenge has absolutely zero inherent meaning. Nothing in Britain, or anywhere else, does. Yet we can’t create anything exciting from Stonehenge, or find new, meaningful sites to theorise over. Might as well build a Prince Charles designed, Crest Nicolson, faux Georgian housing estate around it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The morality of work</title>
+      <link>http://localhost:1313/2014/06/the-morality-of-work/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2014/06/the-morality-of-work/</guid>
+      <description>&lt;p&gt;On the &amp;#8220;morality of work&amp;#8221;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This is the idea that people essentially have a duty to work, an inherent need to work, that work is an instrument to achieving things like self&amp;#8211;esteem and social cohesion. Obviously, this is sort of true. What really matters here is how you define Work. What gets thought of as Work and what is &amp;#8220;not work&amp;#8221; becomes a real bone of contention. In our current society, care work – whether for children, siblings, relatives, friends, strangers – is not considered Work. Housework is not considered Work. Study is not Work. Charity is not Work. Social work is not Work. But all these things are inherent in social cohesion, they are just not valued particularly highly as far as financial reward goes. &amp;#8212;&lt;cite&gt;&lt;a href=&#34;http://www.irishleftreview.org/2014/06/11/basic-income-summer-forum/&#34;&gt;Basic Income Summer Forum&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is only partly right. If we&amp;#8217;re being honest, most people &amp;#8211; apart from politicians when they&amp;#8217;re arguing for things like &lt;a href=&#34;http://www.boycottworkfare.org/&#34;&gt;workfare&lt;/a&gt; &amp;#8211; don&amp;#8217;t see work in such romantic terms. It&amp;#8217;s not a route to self&amp;#8211;esteem, social cohesion etc. etc.&lt;/p&gt;
+
+&lt;p&gt;Work for most people is above all else &lt;em&gt;hard&lt;/em&gt;, something that has to be done in order to pay the bills. Antipathy to Basic Income (or any form of benefit) comes from the view that because &lt;em&gt;I&lt;/em&gt; have to work hard to buy food and pay the gas bill, &lt;em&gt;you&lt;/em&gt; shouldn&amp;#8217;t get free money from me. &lt;em&gt;That&amp;#8217;s&lt;/em&gt; the morality of work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Football, place, ownership and fans</title>
+      <link>http://localhost:1313/2014/05/football-place-ownership-and-fans/</link>
+      <pubDate>Mon, 05 May 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2014/05/football-place-ownership-and-fans/</guid>
+      <description>&lt;p&gt;In the good old days – say 20 years ago or so – your football club was owned and run by local toffs and businessmen (it was always men, and still is, in the main). In Ipswich Town&amp;#8217;s case it was the &lt;a href=&#34;http://en.wikipedia.org/wiki/John_Cobbold_%28businessman%29&#34;&gt;Cobbold family&lt;/a&gt; followed by John Kerr and then &lt;a href=&#34;http://en.wikipedia.org/wiki/David_Sheepshanks&#34;&gt;David Sheepshanks&lt;/a&gt; (Old Etonians all).&lt;figure class=&#34;figure alignnone&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;full-bleed&#34; src=&#34;http://leonpaternoster.com/wp-content/uploads/2014/05/robson-cobbold.jpg&#34; alt=&#34;Bobby Robson and John Cobbold at Ipswich Station&#34; width=&#34;630&#34; height=&#34;446&#34; /&gt;&lt;figcaption class=&#34;secondary&#34;&gt;Bobby Robson and John Cobbold at Ipswich Station (from the East Anglian Daily Times archive)&lt;/figcaption&gt;&lt;/figure&gt;
+Club finances weren&amp;#8217;t managed particularly well. True, Ipswich won an FA Cup, a UEFA Cup and qualified for Europe season after season after the Cobbolds hired Bobby Robson, but when Bobby left to manage England we were saddled with a big new stand and debt. Bobby&amp;#8217;s departure and our reduced finances forced us to sell our best players and, apart from brief forays into the top league under John Lyall and George Burley, things haven&amp;#8217;t really improved since.&lt;/p&gt;
+
+&lt;p&gt;Over the years – and we can blame the Premier League for this – the finances became increasingly precarious, meaning we often had to sell our best players, such as Mauricio Tarricco to Spurs on the eve of Barclays calling in our overdraft. Finally, we went into administration in 2003 after splashing out on high profile flops like Finidi George, Ulrich le Pen and Matteo Sereni.&lt;figure class=&#34;figure alignnone&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://leonpaternoster.com/wp-content/uploads/2014/05/tarrico.jpg&#34; alt=&#34;Mauricio Tarrico&#34; width=&#34;700&#34; height=&#34;507&#34; /&gt;&lt;figcaption class=&#34;secondary&#34;&gt;Mauricio Tarrico. A future manager, maybe.&lt;/figcaption&gt;&lt;/figure&gt;
+Still, at least the football club remained recognisably &lt;em&gt;local&lt;/em&gt;. In spite of our decline, we&amp;#8217;re left with memories of Suffolk people and experiences: &lt;a href=&#34;http://www.telegraph.co.uk/sport/football/teams/ipswich-town/6547769/Footballs-greatest-eccentric-Ipswich-Towns-John-Cobbold.html&#34;&gt;the eccentric Lord Cobbold&lt;/a&gt;&amp;#8216;s famous claim that “There is no crisis at Ipswich until the white wine runs out in the boardroom”, or when he mistook the Ipswich team for a bunch of local lads playing football on a beach in Greece. Or David Sheepshanks on the Wembley pitch after we&amp;#8217;d finally won promotion to the Premier League in 2000. All these local characters and experiences helped form our identity as an idiosyncratic, friendly club.&lt;/p&gt;
+
+&lt;p&gt;This, of course, has all changed – and the football has got worse. In 2007 the &lt;a href=&#34;http://en.wikipedia.org/wiki/Marcus_Evans&#34;&gt;Marcus Evans Group&lt;/a&gt; took over Ipswich Town, and we became a subsidiary of a larger, tax–efficient business, a punt on Premier League millions. Marcus Evans himself may have been born in Bury St Edmunds, but his business is registered in Bermuda.&lt;/p&gt;
+
+&lt;p&gt;Like many other clubs, we&amp;#8217;re in debt to our owner – a multinational businessman&amp;#8217;s largesse only extends so far. While this removes the immediate threat of administration, it does mean our future is bound to the fortunes – and whim – of one businessman. And the effect on the club has been marked: it&amp;#8217;s become bland, dull and mean, bearing all the &lt;a href=&#34;http://leonpaternoster.com/2013/11/itfc-zero-hours/&#34; title=&#34;Ipswich Town FC: A poor employer&#34;&gt;familiar marks of a modern, identikit multinational business&lt;/a&gt;: zero hour contracts, unpaid internships, operational cuts, &lt;a href=&#34;http://ipswichtownfirst.wordpress.com/2014/04/03/supporters-trust-statement-on-inclusion-of-academy-contribution-in-season-ticket-renewal/&#34;&gt;dodgy renewal policies&lt;/a&gt;. We&amp;#8217;re a million miles from the Cobbolds, or even David Sheepshanks.&lt;/p&gt;
+
+&lt;p&gt;This makes me sad, but I&amp;#8217;m not sure many of my fellow fans are that bothered, which makes me even sadder. Still, we&amp;#8217;re hardly in a minority, as &lt;a href=&#34;http://www.theguardian.com/football/2014/may/01/premier-league-accounts-club-by-club-david-conn?view=mobile#&#34;&gt;&lt;cite&gt;The Guardian&amp;#8217;s&lt;/cite&gt; report on the state of 2012–2013 Premier League finances and ownership&lt;/a&gt; shows. It&amp;#8217;s a tale of tax evasion, foreign ownership, hairily leveraged finance and payday loan and casino sponsorship (even ownership in one case).&lt;/p&gt;
+
+&lt;p&gt;There are a few good guys in there. Best of all Swansea – run and owned by local people and the Supporters Trust (and let&amp;#8217;s remember our own excellent &lt;a href=&#34;http://ipswichtownfirst.wordpress.com/&#34;&gt;independent Supporters Trust&lt;/a&gt;). Honourable mentions to Everton, Norwich (ahem), Wigan and West Bromwich Albion. But that&amp;#8217;s about it. The rest is Russian oligarchs, Gulf dynasties and holding companies – lots of holding companies – based in Jersey, the Bahamas, Nevada.&lt;/p&gt;
+
+&lt;p&gt;You may well ask &lt;em&gt;so what?&lt;/em&gt; You don&amp;#8217;t hear many Manchester City or Liverpool fans moaning about their owners while they get to watch exciting, winning football. Indeed, City fans are very thankful to their royal benefactors:&lt;figure class=&#34;figure alignnone&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://leonpaternoster.com/wp-content/uploads/2014/05/sheikh.jpg&#34; alt=&#34;Man City banner thanking Sheikh Mansoor&#34; width=&#34;699&#34; height=&#34;296&#34; /&gt;&lt;figcaption class=&#34;secondary&#34;&gt;City fans thank their billionaire benefactors&lt;/figcaption&gt;&lt;/figure&gt;
+Perhaps place, history and experience are simply commodities to be traded as part of a club&amp;#8217;s global brand, however much &lt;a href=&#34;http://www.mcfc.com/News/Club-news/2014/February/Barclays-You-Are-Football-story&#34;&gt;we and advertisers protest how essential they are&lt;/a&gt;. Perhaps all that matters to fans is a bit of excitement and success, and maybe some sort of relationship with the team – it was very sweet seeing Luke Chambers&amp;#8217; son in front of the North Stand after the last game of this season. But to me football means a bit more. After all, teams are named after places, not businesses or families.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ditching gmail is easy and good for you</title>
+      <link>http://localhost:1313/2014/03/ditching-gmail-is-easy-and-good-for-you/</link>
+      <pubDate>Sun, 16 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2014/03/ditching-gmail-is-easy-and-good-for-you/</guid>
+      <description>
+
+&lt;p&gt;I&amp;#8217;ve been uhmming and ahhing over moving to a different email provider for a few years now. I&amp;#8217;ve finally started the process and can report it&amp;#8217;s relatively painless.&lt;/p&gt;
+
+&lt;p&gt;The key is to do things gradually, rather than move everything over lock, stock and barrel and switch gmail off straight away.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Why leave gmail?&lt;/h2&gt;
+
+&lt;p&gt;Like most people, I signed up for gmail when it offered huge amounts of storage compared to other providers. Also, and this is hard to believe, we all thought Google was a nice, trendy kind of company. That was around 2004.&lt;/p&gt;
+
+&lt;p&gt;Since then we&amp;#8217;ve had NSA, austerity and &lt;a href=&#34;http://www.theinquirer.net/inquirer/news/2197482/google-won-t-be-paying-much-uk-tax&#34;&gt;tax avoidance&lt;/a&gt;, &lt;a href=&#34;http://arstechnica.com/business/2013/05/larry-page-wants-you-to-stop-worrying-and-let-him-fix-the-world/&#34;&gt;lunatic Ayn Rand philosophy&lt;/a&gt; and &lt;a href=&#34;http://leonpaternoster.com/2013/11/google-plus-autogenerated-pages-for-businesses-a-pain/&#34; title=&#34;Google plus generated pages cause problems&#34;&gt;Google Plus&lt;/a&gt;. Less and less &lt;em&gt;do no evil&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;You don&amp;#8217;t have to be a conspiracy theorist to worry at Google&amp;#8217;s attempts to control your whole online life (or Apple&amp;#8217;s, or Facebook&amp;#8217;s, for that matter).&lt;figure class=&#34;figure alignnone&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&#34;The Google founders in a car&#34; src=&#34;http://leonpaternoster.com/wp-content/uploads/2014/03/google-owners.jpg&#34; width=&#34;800&#34; height=&#34;345&#34; /&gt;&lt;figcaption class=&#34;secondary&#34;&gt;Larry Page in the driving seat of a Google car&lt;/figcaption&gt;&lt;/figure&gt;
+Over the years I&amp;#8217;ve accumulated around 3GB of email, so moving to another provider *seemed* daunting. It&amp;#8217;s actually really simple, but it will take some time (and just a small bit of effort) and does assume you&amp;#8217;ve prioritised your gmail (by starring important emails, for example).&lt;/p&gt;
+
+&lt;p&gt;The best thing is you&amp;#8217;ll be in control of your email again.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Never delete an email is a rubbish approach&lt;/h2&gt;
+
+&lt;p&gt;Google says there&amp;#8217;s &lt;a href=&#34;http://gmailblog.blogspot.co.uk/2008/04/9-reasons-to-archive.html&#34;&gt;no need to delete your email&lt;/a&gt;. That sounds great, not least because it saves you making a decision when you read an email. Just archive it instead.&lt;/p&gt;
+
+&lt;p&gt;Of course, your email is gold to Google: that&amp;#8217;s where all that juicy online behaviour data sits. The more data Google can mine, the more value it extracts from you.&lt;/p&gt;
+
+&lt;p&gt;But never deleting email makes finding stuff difficult. True, Google has a stellar search engine, but the more email you accumulate the less meaningful search queries become. And the more work you have to do to find important messages.&lt;/p&gt;
+
+&lt;p&gt;The fewer emails you have the easier it is to find, prioritise and act on them.&lt;/p&gt;
+
+&lt;p&gt;Why keep &lt;em&gt;all&lt;/em&gt; those messages? Google will try and scare you into thinking the email you&amp;#8217;ve just deleted &lt;em&gt;may&lt;/em&gt; be vital after all. But I can count the times I&amp;#8217;ve *needed* to find an email I didn&amp;#8217;t immediately star on the fingers of one hand. Important stuff should be obvious by definition.&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;#8217;ve rid yourself of the &lt;em&gt;never delete anything ever&lt;/em&gt; philosophy, you can take the plunge as you won&amp;#8217;t need to import thousands of emails.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Moving from gmail&lt;/h2&gt;
+
+&lt;p&gt;The first thing to realise is you&amp;#8217;re not going to close your Google account straight away. The migration is a gradual process.&lt;/p&gt;
+
+&lt;p&gt;Follow these steps:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Choose an alternative email provider&lt;/strong&gt;. I looked through this excellent &lt;a href=&#34;http://thesimplecomputer.info/free-webmail-for-better-privacy/&#34;&gt;list of secure, privacy aware providers&lt;/a&gt; and plumped for a &lt;a href=&#34;http://unseen.is&#34;&gt;free, 500MB Unseen email account&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Go through your starred email&lt;/strong&gt; and evaluate whether each item really is important. If it is, forward it to your new email address.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create an &lt;em&gt;Important&lt;/em&gt; folder&lt;/strong&gt; in your new email account. Move all the gmail starred emails to this folder.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Autoforward all your new gmail emails to your new account&lt;/strong&gt; (look for &lt;em&gt;Settings &lt;/em&gt;&amp;gt; &lt;em&gt;POP and forwarding&lt;/em&gt;. Google doesn&amp;#8217;t care if you forward email, as long as it sees it.)*&lt;br /&gt;
+*&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Import your gmail contacts&lt;/strong&gt; (&lt;a href=&#34;http://support.unseen.is/031257-How-to-enter-contacts-in-your-address-book&#34;&gt;Unseen can import gmail contacts automatically&lt;/a&gt;, although gmail will block the process until you OK it. Try it once then login to your gmail account to tell Google Unseen is legitimate, then try again.)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Set your autoresponder&lt;/strong&gt; to tell people you&amp;#8217;ve changed email address (via &lt;em&gt;Settings &lt;/em&gt;&lt;em&gt;&amp;gt;&lt;/em&gt;*&lt;strong&gt;&lt;em&gt; &lt;/em&gt;&lt;/strong&gt;General)*&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And that&amp;#8217;s it, to start with. Once you&amp;#8217;ve got your new email address up and running, &lt;strong&gt;make a decision whenever a new email arrives in your new inbox&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If you need to act on it keep it in the Inbox&lt;/li&gt;
+&lt;li&gt;If it contains important reference information (hosting account details, for example) move it to an *Important* folder&lt;/li&gt;
+&lt;li&gt;If it&amp;#8217;s a subscription you don&amp;#8217;t bother reading go and click the unsubscribe link and delete the email. If you want to keep the subscription, update it with your new email address.&lt;/li&gt;
+&lt;li&gt;If it&amp;#8217;s worthless delete it&lt;/li&gt;
+&lt;li&gt;If you&amp;#8217;re unsure move it to an *Archive* folder&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the meantime, you can refer to your old gmail whenever necessary, and if you did need one of those thousands of archived emails, forward it to your new account and file it in the &lt;em&gt;Important&lt;/em&gt; or &lt;em&gt;Archive&lt;/em&gt; folder.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;Turning gmail off&lt;/h2&gt;
+
+&lt;p&gt;Of course, the whole point of this is to ditch gmail. Simply forwarding email to a new service doesn&amp;#8217;t really achieve anything.&lt;/p&gt;
+
+&lt;p&gt;I haven&amp;#8217;t made the final step yet: I want to make sure everything is OK with Unseen. If things don&amp;#8217;t go well, all your email will still be sitting on Google&amp;#8217;s servers, and you can either go back or start the process again.&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;#8217;re happy you can get rid of those thousands of untouched, archived emails, you&amp;#8217;ll need to:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Tell everyone your new email address&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.washingtonpost.com/business/technology/how-to-close-your-google-account/2012/01/25/gIQADAxbQQ_story.html&#34;&gt;Close your gmail account&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And why not get rid of Plus while you&amp;#8217;re at it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mozilla, money, adverts and corporate speak</title>
+      <link>http://localhost:1313/2014/02/mozilla-money-adverts-and-corporate-speak/</link>
+      <pubDate>Fri, 21 Feb 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2014/02/mozilla-money-adverts-and-corporate-speak/</guid>
+      <description>
+
+&lt;p&gt;What to make of Mozilla.&lt;/p&gt;
+
+&lt;p&gt;Why? Well, Mozilla gave us Firefox – my browser of choice on Windows, Debian and Android – which slayed Internet Explorer. The online lives of millions have been improved immeasurably by IE&amp;#8217;s demise. Too bad for Firefox Chrome mopped up to become the planet&amp;#8217;s most popular browser.&lt;/p&gt;
+
+&lt;p&gt;Mozilla, unlike Google, is a not-for-profit organisation, which means it builds Firefox so you can browse the internet and &lt;em&gt;control&lt;/em&gt; how you browse. Mozilla&amp;#8217;s only motive is to build an excellent browser for its users. That&amp;#8217;s a simple, useful and transparent relationship.&lt;/p&gt;
+
+&lt;p&gt;Your relationship with Chrome and Google is murkier. While Chrome is free (and a better browser than Firefox), Google&amp;#8217;s ultimate motive is to direct you to its advertisers&amp;#8217; products and/or sell information about you and your browsing habits to advertisers. That&amp;#8217;s why Chrome made the address bar a search box as well.&lt;/p&gt;
+
+&lt;p&gt;Making Chrome a shithot browser &lt;em&gt;helps&lt;/em&gt; Google make money, but that&amp;#8217;s not its &lt;em&gt;raison d&amp;#8217;etre&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Adverts and corporate speak at Mozilla&lt;/h2&gt;
+
+&lt;p&gt;So until recently I had a romantic view of Mozilla. I assumed it was a smallish operation, staffed by talented designers and engineers and a few business types keeping everything running smoothly. I didn&amp;#8217;t even think about stuff like income until I read this post on &lt;a href=&#34;https://blog.mozilla.org/advancingcontent/2014/02/11/publisher-transformation-with-users-at-the-center/&#34;&gt;plans to put ads on the Firefox start screen&lt;/a&gt;. (Note: Mozilla pulled the post, but you can &lt;a href=&#34;https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fblog.mozilla.org%2Fadvancingcontent%2F2014%2F02%2F11%2Fpublisher-transformation-with-users-at-the-center%2F&#34;&gt;grab an archived Google copy&lt;/a&gt;. So it goes.)&lt;/p&gt;
+
+&lt;p&gt;I don&amp;#8217;t think ads sit well with a not for profit, but &lt;a href=&#34;http://leonpaternoster.com/2014/02/mozilla-is-selling-ads-although-its-coy-about-telling-us/&#34; title=&#34;Mozilla is selling ads, although it’s coy about telling us&#34;&gt;the article&amp;#8217;s language concerns me even more&lt;/a&gt;. Corporate and obfuscatory. A tech insider armed with some slick phrases and bad news. I sniffed money.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Mozilla, selling search to Google and (lots of) money&lt;/h2&gt;
+
+&lt;p&gt;The reason you put ads in something is to generate income. Whatever Mozilla claim, it&amp;#8217;s not to make your product better for users. So let&amp;#8217;s take a look at Mozilla&amp;#8217;s money.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://thenextweb.com/insider/2013/11/21/mozillas-reliance-google-increasing-90-2012-revenue-came-one-source/&#34;&gt;The majority of Mozilla&amp;#8217;s income comes from a deal it&amp;#8217;s struck with Google&lt;/a&gt;. When you tap a search into Firefox it sends it to Google. In turn, Google makes money whenever anyone clicks on an ad in its search results. As &lt;a href=&#34;http://www.w3counter.com/globalstats.php?year=2014&amp;amp;month=1&#34;&gt;Firefox still accounts for just over 18% of the world&amp;#8217;s internet traffic&lt;/a&gt;, that&amp;#8217;s presumably a lot of money.&lt;/p&gt;
+
+&lt;p&gt;This has been the case for several years, but you might ask whether it&amp;#8217;s in the user&amp;#8217;s best interests. I&amp;#8217;m not sure. &lt;a href=&#34;http://inlibrary.suffolklibraries.co.uk&#34;&gt;Our library PC home page&lt;/a&gt; features a big Google search box because our PC users more often than not equate &lt;em&gt;search the internet&lt;/em&gt; with &lt;em&gt;search Google&lt;/em&gt;, and the first thing they do when they login to a PC is perform a search.&lt;/p&gt;
+
+&lt;p&gt;We don&amp;#8217;t make money from search (perhaps we should) – we&amp;#8217;re doing what we think library users want us to do. If they wanted something different, we could change search engine easily, perhaps to &lt;a href=&#34;https://duckduckgo.com/&#34;&gt;Duck Duck Go&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mozilla can&amp;#8217;t change, so whether Google would be most people&amp;#8217;s &lt;em&gt;choice&lt;/em&gt; of search engine anyway is a moot point.&lt;/p&gt;
+
+&lt;p&gt;Again, Google provides the best product, but being the best search engine is not an end in itself. The ultimate aim is to get people to click on adverts, and &lt;a href=&#34;http://leonpaternoster.com/2013/11/google-plus-autogenerated-pages-for-businesses-a-pain/&#34; title=&#34;Google plus generated pages cause problems&#34;&gt;businesses on Google Plus&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;m not sure this sits well with a not for profit, and I&amp;#8217;d argue it stretches points 2, 4, 5 and 8 of the &lt;a href=&#34;https://www.mozilla.org/en-US/about/manifesto/&#34;&gt;Mozilla Manifesto&lt;/a&gt; (but hey, point 9 makes everything OK, and the whole thing&amp;#8217;s too fluffy anyway).&lt;/p&gt;
+
+&lt;p&gt;Still, Google accounts for over 90% of Mozilla&amp;#8217;s income, which means it&amp;#8217;s in the odd situation of being funded by its biggest competitor. &lt;a href=&#34;http://www.w3counter.com/trends&#34;&gt;Chrome&amp;#8217;s browser share has increased at Firefox&amp;#8217;s expense&lt;/a&gt;. And the actual amount? Well, that&amp;#8217;s subject to &lt;a href=&#34;http://www.mozilla.org/en-US/foundation/annualreport/2012/faq/&#34;&gt;&lt;q&gt;traditional confidentiality requirements, and we’re [Mozilla] not at liberty to disclose them&lt;/q&gt;&lt;/a&gt;, but it&amp;#8217;s quite easy to work out. It&amp;#8217;s &lt;strong&gt;just under $300m a year&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Which raises more questions.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;What is Mozilla for?&lt;/h2&gt;
+
+&lt;p&gt;Not for profits have a contradictory relationship with money. On the one hand they exist for an explicitly noncommercial purpose, while on the other they&amp;#8217;re often under pressure to increase income.&lt;/p&gt;
+
+&lt;p&gt;How they negotiate this paradox is fundamental. If a not for profit makes lots of money but loses sight of its original purpose it becomes a bog standard business.&lt;/p&gt;
+
+&lt;p&gt;At the moment, Mozilla &lt;em&gt;feels&lt;/em&gt; too much like a commercial organisation. It raises lots of income, but sells one of its fundamental features in the process. It&amp;#8217;s making noises about selling ads on its start page. It signs nondisclosure agreements with its partners. It speaks in pettifogging, corporate lingo. All while asking for donations (and getting $800,000 a year).&lt;/p&gt;
+
+&lt;p&gt;300 million. I guess developing Firefox, Thunderbird and Firefox OS doesn&amp;#8217;t come cheap, and nor do &lt;a href=&#34;http://spiekermann.com/en/&#34;&gt;Erik Spiekermann&lt;/a&gt; and &lt;a href=&#34;http://clearleft.com/made/mozilla-add-ons&#34;&gt;Clear Left&lt;/a&gt;. Just because you&amp;#8217;re a not for profit doesn&amp;#8217;t mean you shouldn&amp;#8217;t get the best in design. But that still seems an awful lot, and I bet a fair old wodge goes on employing some &lt;a href=&#34;http://about.me/darrenjayherman&#34;&gt;expensive marketing and advertising staff&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Again, no reason why Mozilla shouldn&amp;#8217;t hire the best, but it&amp;#8217;d be a tragedy if it lost sight of what it&amp;#8217;s for in the process. Let&amp;#8217;s hope the corporate bods will learn as they go along, but &lt;a href=&#34;https://blog.mozilla.org/blog/2014/02/13/revenue-diversification-the-mozilla-way/&#34;&gt;don&amp;#8217;t hold your breath&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why do we work unpaid hours?</title>
+      <link>http://localhost:1313/2013/11/why-do-people-work-more-than-they-are-paid/</link>
+      <pubDate>Sun, 17 Nov 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2013/11/why-do-people-work-more-than-they-are-paid/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Enough. If an employer hires me to do a job, it means they have deemed me qualified to do it. If I cannot complete the task required in the hours for which I am paid, I am being conned. &lt;cite&gt;&lt;a href=&#34;http://www.theguardian.com/commentisfree/2013/nov/17/hard-work-pay-good-job&#34;&gt;Hard-working? If you pay me, I&amp;#8217;ll do a good job. That&amp;#8217;s the deal&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The same article cites TUC research claiming 1 in 5 workers puts in an extra day&amp;#8217;s unpaid work a week.&lt;/p&gt;
+
+&lt;p&gt;You need to ask &lt;em&gt;why&lt;/em&gt; this is the case. Employers often put subtle (and not so subtle) pressure on staff to ‘go the extra mile’, and some jobs simply demand additional hours (teaching is an obvious example: I defy anyone to prepare a week&amp;#8217;s work in 5 hours PPA).&lt;/p&gt;
+
+&lt;p&gt;But I&amp;#8217;ve met plenty of people who willingly put in the extra hours when it&amp;#8217;s obviously detrimental to their own and their co–workers&amp;#8217; position. There&amp;#8217;s psychology at play here. What&amp;#8217;s going on?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Fear&lt;/em&gt;. Work has changed in the last 5 years. You&amp;#8217;re lucky to have a job and there are plenty of people out there who would willingly step in to your shoes. I think there&amp;#8217;s something in this argument, but I&amp;#8217;ve worked in offices where people did lots of unpaid work before 2008.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Enjoyment&lt;/em&gt;. You enjoy doing your job so you don&amp;#8217;t mind carrying on past your contracted hours. Although why &lt;em&gt;enjoyment&lt;/em&gt; should equate to &lt;em&gt;unpaid&lt;/em&gt; I have no idea.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Boredom&lt;/em&gt;. Let&amp;#8217;s be honest. Some people don&amp;#8217;t have much beyond work and, sadly, don&amp;#8217;t really want to go home. Time in the office fills a void.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Competition&lt;/em&gt;. When your job doesn&amp;#8217;t require specific, technical skills, the only apparent differentiator is the ability to stay at your desk longer than other people.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Perhaps we&amp;#8217;ve lost belief in the work we do. In the past work required skills learnt through study or experience, or we did things our employers wouldn&amp;#8217;t do in a million years.&lt;/p&gt;
+
+&lt;p&gt;Now – unless you&amp;#8217;re a teacher, nurse or something similar – we&amp;#8217;re just a bundle of transferable skills working in more or less pleasant offices. How do we &lt;em&gt;prove&lt;/em&gt; our value when we feel &lt;a href=&#34;http://www.strikemag.org/bullshit-jobs/&#34;&gt;what we&amp;#8217;re doing is pointless&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p&gt;There is, of course, a delicious irony here. While we don&amp;#8217;t value what we&amp;#8217;re doing, we do more of it, and &lt;a href=&#34;http://blogs.ft.com/westminster/2013/09/tory-ministers-try-to-flog-the-phrase-hardworking-to-death/&#34;&gt;make more of a virtue out of it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;*[TUC]: Trades Union Congress&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3 right wing reasons for a Basic Citizens&#39; Income</title>
+      <link>http://localhost:1313/2013/10/3-neoliberal-reasons-for-basic-income/</link>
+      <pubDate>Sun, 06 Oct 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2013/10/3-neoliberal-reasons-for-basic-income/</guid>
+      <description>
+
+&lt;p&gt;A Basic Citizens&amp;#8217; Income (BCI) is one of those subjects that&amp;#8217;s fun to think about (if you&amp;#8217;re philosophically or politically inclined – I guess other people find it mortally dull, for which I apologise).&lt;/p&gt;
+
+&lt;p&gt;It serves as a thought experiment – what if the role of the state wasn&amp;#8217;t to punish poverty? – which can lead down some surprising alleyways.&lt;/p&gt;
+
+&lt;p&gt;For example &lt;em&gt;what is the right&amp;#8217;s attitude to BCI&lt;/em&gt;?&lt;/p&gt;
+
+&lt;p&gt;Your instinct says &lt;em&gt;the right will absolutely hate&lt;/em&gt; a BCI, and you probably wouldn&amp;#8217;t be mistaken. It doesn&amp;#8217;t exactly fit in with &lt;a href=&#34;http://www.bbc.co.uk/news/uk-politics-24327470&#34;&gt;Gideon&amp;#8217;s &lt;em&gt;something for nothing culture&lt;/em&gt; rhetoric&lt;/a&gt;, and its main UK proponents are various leftwingers and the Green Party.&lt;/p&gt;
+
+&lt;p&gt;But there&amp;#8217;s no inherent reason for the right to adopt a punitive attitude to welfare. If the starting point of any welfare system is &lt;em&gt;how do we encourage entrpreneuralism&lt;/em&gt;? (how I hate that word) or &lt;em&gt;how do we minimise state bureacracy&lt;/em&gt;?, or even &lt;em&gt;how do we encourage people to work&lt;/em&gt;? then BCI becomes a lot more attractive.&lt;/p&gt;
+
+&lt;p&gt;Of course – as I always point out – this will not happen, because the starting point of all social policy is &lt;em&gt;how do we punish poverty&lt;/em&gt;?&lt;figure class=&#34;figure alignnone&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;size-full wp-image-64&#34; alt=&#34;Two women sitting at a table in a cafe&#34; src=&#34;http://leonpaternoster.com/wp-content/uploads/2013/10/newsnight.jpg&#34; width=&#34;595&#34; height=&#34;301&#34; /&gt;&lt;figcaption class=&#34;secondary&#34;&gt;BBC Newsnight political editor Allegra Stratton &lt;a href=&#34;http://politicalscrapbook.net/2012/06/newsnight-allegra-stratton-exposed-shanene-thorpe/&#34;&gt;falsely portrayed Shanene Thorpe as a “jobless ponce”&lt;/a&gt;. Her prejudice is widespread – even at the supposedly objective BBC.&lt;/figcaption&gt;&lt;/figure&gt;
+But here are 3 reasons for the right to embrace BCI:&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;1. It encourages entrepreneurs&lt;/h2&gt;
+
+&lt;p&gt;The current benefits system deters people from working piecemeal. As soon as you work one single hour, you lose benefits. This means that it&amp;#8217;s only worth working if you can work lots of hours on a regular, predictable basis. Working now and again is not only financially pointless, it means you have to deal with the nightmare bureaucracy of the DWP.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;#8217;s say you&amp;#8217;ve worked for a couple of years as a ‘junior’ web developer. You&amp;#8217;ve kept up to date with all the latest trends in your field and know you could do a better job than the company that just made you redundant.&lt;/p&gt;
+
+&lt;p&gt;A BCI would encourage you to take a risk. You could set yourself up as a self–employed developer and starting bidding for work. You wouldn&amp;#8217;t have to rely on being able to secure credit, or a rich mum and dad.&lt;/p&gt;
+
+&lt;p&gt;If your business failed you&amp;#8217;d have your BCI to fall back on. If it was slow to take off – building a reputation is difficult – and only earned a couple of hundred quid a month you&amp;#8217;d still keep that income and pay tax on it.&lt;/p&gt;
+
+&lt;p&gt;Who knows – over time you might become a really successful business woman, while the economy gains a high quality web developer. You might start employing people.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;2. It rids us of state bureaucracy&lt;/h2&gt;
+
+&lt;p&gt;The current income support and tax credits system is a Kafkaesque bureaucracy of different rates, forms, ages, sanctions and administrators (although this does create employment, ironically enough. Imagine if there were no poor people to keep tabs on and sanction – no poverty industry.)&lt;/p&gt;
+
+&lt;p&gt;If &lt;em&gt;everyone&lt;/em&gt; receives BCI regardless of age, marital status, income and employment status, there&amp;#8217;s nothing to process except a weekly or monthly payment. No signing on, back to work schemes or changes in circumstances forms.&lt;/p&gt;
+
+&lt;p&gt;In the UK, &lt;a href=&#34;http://www.citizensincome.org/filelibrary/Archived%20Publications/Citizen%27s%20Income%20booklet%202013.doc&#34;&gt;BCI would save £7 billion per year in tax credits and income support administration costs&lt;/a&gt; (Word doc).&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;3. It makes it easier to liberalise employment laws and create a ‘free’ market&lt;/h2&gt;
+
+&lt;p&gt;The right argues minimum hour contracts, a minimum wage and redundancy protection rights ‘stifle’ business growth.&lt;/p&gt;
+
+&lt;p&gt;While far more ‘protective’ countries than the UK seem to manage perfectly well (Germany, most obviously), other traditionally &lt;a href=&#34;http://en.wikipedia.org/wiki/Denmark#Public_policy&#34;&gt;social democratic countries such as Denmark have adopted an even more neoliberal approach&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Unlike the UK, Denmark has extremely high unemployment benefit levels. In effect, there&amp;#8217;s a contract between the state, workers and employers. Employers can hire and fire at will, but workers don&amp;#8217;t face ruinous consequences if they lose their jobs.&lt;/p&gt;
+
+&lt;p&gt;In the UK there&amp;#8217;s no such contract, which makes employment law liberalisation extremely unfair and dangerous to workers.&lt;/p&gt;
+
+&lt;p&gt;BCI could form part of a contract between workers and employers. It would allow employers to hire and fire more freely, while giving workers a basic level of security. The government could abolish the minimum wage, meaning market forces would determine pay.&lt;/p&gt;
+
+&lt;p&gt;BCI appeals to a strain of anarchism common to neoliberal and leftwing thought. It&amp;#8217;s a shame such a rational, practical idea that works across ideologies doesn&amp;#8217;t have a chance in the UK.&lt;/p&gt;
+
+&lt;p&gt;*[DWP]: Department of Work And Pensions&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Low expectations</title>
+      <link>http://localhost:1313/2013/10/swiss-basic-income-low-uk-expectations/</link>
+      <pubDate>Sat, 05 Oct 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2013/10/swiss-basic-income-low-uk-expectations/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Switzerland will hold a vote on whether to introduce a basic income for all adults, in a further sign of growing public activism over pay inequality since the financial crisis. A grassroots committee is calling for all adults in Switzerland to receive an unconditional income of 2,500 Swiss francs (2,800 USD) per month from the state, with the aim of providing a financial safety net for the population. &lt;cite&gt;&lt;a href=&#34;http://www.reuters.com/article/2013/10/04/us-swiss-pay-idUSBRE9930O620131004&#34;&gt;Reuters&lt;/a&gt;&lt;/cite&gt; via &lt;a href=&#34;https://twitter.com/basicincome_uk&#34;&gt;Basic Income UK&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As you&amp;#8217;re no doubt very bored of hearing, I&amp;#8217;m interested in the idea of a Basic Citizen Income: a non–withdrawable, non–means tested income for every UK citizen, regardless of employment status, age and marital status.&lt;/p&gt;
+
+&lt;p&gt;I blogged &lt;a href=&#34;/2013/09/basic-income-examples/&#34;&gt;a couple of examples of how it might work in the UK&lt;/a&gt;, using figures published by Dr Malcolm Torry. Unfortunately, it&amp;#8217;ll never happen, due to our punitive attitude to poor people.&lt;figure class=&#34;figure alignnone&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;size-full wp-image-59&#34; alt=&#34;Some people sweeping coins outside the Swiss parliament&#34; src=&#34;http://leonpaternoster.com/wp-content/uploads/2013/12/swiss-money.jpg&#34; width=&#34;634&#34; height=&#34;421&#34; /&gt;&lt;figcaption class=&#34;secondary&#34;&gt;Swiss Generation Basic Income activists outside their parliament&lt;/figcaption&gt;&lt;/figure&gt;
+What&amp;#8217;s interesting about the Swiss proposal is the amount they&amp;#8217;ll be voting on. In the UK 2800 USD amounts to about £1750, i.e. the average full–time worker&amp;#8217;s net pay.&lt;/p&gt;
+
+&lt;p&gt;In my examples, anyone over the age of 24 would receive £308 a month, &lt;em&gt;around £1400 less than in Switzerland&lt;/em&gt;. And yet it still seems a million miles away. (Note: Dr Torry&amp;#8217;s figures assume housing and council tax benefits remain the same. They substantially increase UK state derived income.)&lt;/p&gt;
+
+&lt;p&gt;What does this say about UK expectations of pay and quality of life?&lt;/p&gt;
+
+&lt;p&gt;*[USD]: US dollars&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Basic citizen income—two examples of how it would work</title>
+      <link>http://localhost:1313/2013/09/basic-income-examples/</link>
+      <pubDate>Sun, 29 Sep 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2013/09/basic-income-examples/</guid>
+      <description>
+
+&lt;p&gt;Now, we all know a basic citizen income will never happen in the UK, because of &lt;a href=&#34;/2013/09/basic-income/&#34;&gt;our punitive attitude to benefits&lt;/a&gt;. However, it&amp;#8217;s interesting to look at how it would affect us &lt;em&gt;if&lt;/em&gt; we actually created a system that supported people regardless of their circumstances. We can but dream.&lt;/p&gt;
+
+&lt;p&gt;The following scenarios and figures are based on &lt;a href=&#34;http://www.citizensincome.org/MoneyforEveryone.htm&#34;&gt;Dr Malcolm Torry&amp;#8217;s work for the Citizen&amp;#8217;s Income Trust&lt;/a&gt; (see Appendix 16). He claims the proposals are revenue neutral.&lt;/p&gt;
+
+&lt;p&gt;The state would give every citizen a fixed income regardless of their salary, pension, investment income, age and marital status. Dr Torry proposes income levels based on current income support and pension credit rates:&lt;/p&gt;
+
+&lt;table class=&#34;pure-table&#34;&gt;
+  &lt;tr&gt;
+    &lt;th&gt;
+      Age
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      Weekly rate
+    &lt;/th&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      0–15
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      £56.25
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      16–24
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      £56.25
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      25–64
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      £71.00
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      65+
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      £142.70
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p class=&#34;secondary&#34;&gt;
+  Weekly basic citizen income amounts
+&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Example 1&lt;/h2&gt;
+
+&lt;p&gt;A and B are married and have two school aged children. A earns the national average wage of £26,500 a year. B hasn&amp;#8217;t worked for four years in order to bring up the children. B would like to find a part–time job or course in order to begin a return to work.&lt;/p&gt;
+
+&lt;p&gt;The family collects £160 a month in child tax credits and £134 child benefit.&lt;/p&gt;
+
+&lt;p&gt;After tax and national insurance (NI) A takes home £1700 a month. This results in a total income of £1994 a month.&lt;/p&gt;
+
+&lt;p&gt;At the moment it&amp;#8217;s next to impossible for B to find work or study, because they&amp;#8217;ll lose their tax credits and have to start paying for pre and after school childcare, and any course costs.&lt;/p&gt;
+
+&lt;p&gt;Under a basic citizen income scheme A would pay more income tax because there&amp;#8217;d be no tax allowance. Using the current tax rates, tax and NI add up to 32%, so A would take home £1502 a month.&lt;/p&gt;
+
+&lt;p&gt;Basic income is paid to all citizens regardless of age. Using Torry&amp;#8217;s suggested rates, the family would receive £1103 citizen income a month. This results in a total income of £2605 a month, £611 more than the current amount.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;How things would change&lt;/h3&gt;
+
+&lt;p&gt;B could look for work without worrying about losing child tax credits. If the government also subsidised free childcare, it would be even more attractive. Study would be a realistic option.&lt;/p&gt;
+
+&lt;p&gt;There are also several indirect benefits. A currently pays £60 accident, sickness and unemployment insurance. They wouldn&amp;#8217;t need to pay as much because redundancy wouldn&amp;#8217;t be as ruinous as before (moving to part–time work would be a realistic option, for example).&lt;/p&gt;
+
+&lt;p&gt;A could change their work hours to share childcare duties. It might be possible to go part–time in order to improve B&amp;#8217;s job and study prospects.&lt;/p&gt;
+
+&lt;p&gt;A citizen income would drastically improve financial security, work and study flexibility and the quality of A and B&amp;#8217;s life (and their children&amp;#8217;s).&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Example 2&lt;/h2&gt;
+
+&lt;p&gt;C brings up three children on their own. Their youngest child has turned 5, which means they have to move to &lt;a href=&#34;https://www.gov.uk/employment-support-allowance/what-youll-get&#34;&gt;Employment and Support Allowance (ESA)&lt;/a&gt; benefit of £71.70 a week.&lt;/p&gt;
+
+&lt;p&gt;After 13 weeks they&amp;#8217;ll be put into a sinisterly named “work related activity group” and face sanctions if they don&amp;#8217;t attend job interviews or do “work–related activity”. &lt;a href=&#34;http://www.adviceguide.org.uk/wales/benefits_w/benefits_sick_or_disabled_people_and_carers_ew/employment_and_support_allowance.htm#work-related_activity&#34;&gt;Work related activity&lt;/a&gt; is work for free (also known as &lt;a href=&#34;http://www.boycottworkfare.org/&#34;&gt;workfare&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;They currently claim £376.11 a month child tax credits and £204.10 child benefit. Total income is £890.91 a month.&lt;/p&gt;
+
+&lt;p&gt;C would like to either work part–time or, because they have no formal qualifications, begin an access course so they can train for a job.&lt;/p&gt;
+
+&lt;p&gt;C would lose their ESA under the current rules if they started a course.&lt;/p&gt;
+
+&lt;p&gt;Under the basic citizen income scheme, the family&amp;#8217;s income would increase by a modest £148 a month to £1038.91. C wouldn&amp;#8217;t have to start unpaid “work–related activity”, and they&amp;#8217;d be free to either study or work part–time without losing any money.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_3&#34;&gt;How things would change&lt;/h3&gt;
+
+&lt;p&gt;C wouldn&amp;#8217;t have to worry about a change in circumstances affecting their children&amp;#8217;s well–being. They could also concentrate on planning some sort of career, rather than how their income changes on a week to week basis, or working for free.&lt;/p&gt;
+
+&lt;p&gt;A common theme to these examples is education. Another indirect consequence of a basic income would be a better trained workforce.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_4&#34;&gt;Why it won&amp;#8217;t happen&lt;/h2&gt;
+
+&lt;p&gt;If Torry&amp;#8217;s cost neutral claims are true, then it&amp;#8217;s hard to argue against a basic citizen income. They serve the government&amp;#8217;s aim of &lt;em&gt;getting people back to work&lt;/em&gt; far better than the current means tested system.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;#8217;re of a neoliberal bent they also open up several interesting possibilities around ‘flexible’ labour laws. If unemployment isn&amp;#8217;t entirely financially ruinous, then zero hour contracts and no quibble hiring and firing may seem a little fairer than they do at the moment. (&lt;em&gt;Note – this isn&amp;#8217;t my view!&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;However, the main drawback is that an untested citizen income isn&amp;#8217;t punitive. In real life, A is encouraged to feel that they&amp;#8217;re paying for C to ‘do nothing’ while they struggle on a low income, instead of questioning why their salary is so inadequate. Benefits and work are an exercise in division and revenge.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Basic citizen income—genius idea the UK will never adopt</title>
+      <link>http://localhost:1313/2013/09/basic-income/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2013/09/basic-income/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Our conclusion has to be that every mainstream political ideology generates arguments for a citizen&amp;#8217;s income. Arguments against are more generic, and are not generated by political ideologies themselves, and are easily answered. &lt;cite&gt;&lt;a href=&#34;http://blogs.lse.ac.uk/politicsandpolicy/archives/34269&#34;&gt;There are many convincing arguments in favour of a Citizen’s Income&lt;/a&gt;—Dr Malcolm Torry&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Very true. Imagine implementing a policy that made work a rational choice for everybody, regardless of their income, status or age, rid unemployment of its ruinous consequences, improved the psychical health of the nation, allowed people to work around their family life and put an end to the vilification of the unemployed.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;#8217;re neoliberally inclined, your arguments for repealing employment protection laws would at least seem fairer (&lt;a href=&#34;http://en.wikipedia.org/wiki/Denmark#Public_policy&#34;&gt;a la Denmark&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;You&amp;#8217;d also &lt;a href=&#34;http://www.telegraph.co.uk/news/celebritynews/10266648/Jamie-Oliver-sparks-poverty-row-after-he-attacks-families-for-eating-junk-food-and-buying-expensive-TV-sets.html&#34;&gt;shut Jamie Oliver up&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And yet it&amp;#8217;ll never happen in the UK, because ideology (mainstream or otherwise) and our attitude to work aren&amp;#8217;t rational.&lt;/p&gt;
+
+&lt;p&gt;What is the British attitude to work, benefits and reward? There&amp;#8217;s an element of masochism (that positively enjoys working in unfair circumstances), offset by a vengeful moralism (the division of the fellow fucked–over poor into deserving and undeserving categories) and a morbid fascination with property as a moral reward for this suffering – even though owning a house has very little to do with hard work. All irrational, illiberal and self defeating, and totally at odds with an unconditional basic income.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tschichold, democratic design and the politics of typefaces</title>
+      <link>http://localhost:1313/2013/03/tschichold-democratic-design-and-the-politics-of-typefaces/</link>
+      <pubDate>Sun, 24 Mar 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/2013/03/tschichold-democratic-design-and-the-politics-of-typefaces/</guid>
+      <description>&lt;p&gt;Penguin founder Allen Lane hired Jan Tschichold to design the publisher’s book covers in 1947. Tschichold made an immediate impact:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“…nothing compared to storm when Jan Tschichold arrived. Mild-mannered man with an inflexible character. Screams heard from Edinburgh to Ipswich and from Aylesbury to Bungay.” This was the result of Tschichold’s immediate effort to raise the standard of undisciplined English typesetting; to his frustration, Tschichold found himself obliged to treat the compositor not as a craftsman but as a machine, by specifying precise measurements for the spaces between each combination of letters in a title. It was the only way to get the results he desired. &lt;cite&gt;&lt;a href=&#34;http://www.guardian.co.uk/artanddesign/2008/dec/05/jan-tschichold-typography&#34;&gt;Jan Tschichold: a titan of typography&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So there you have it; the Ipswich Jan Tschichold link.&lt;/p&gt;
+
+&lt;p&gt;I guess this is an example of what iA refer to as &lt;em&gt;Fingerspitzengefühl&lt;/em&gt;; the fine knowledge of detail that helps produce good design. (Go ahead and read &lt;a href=&#34;http://informationarchitects.net/blog/learning-to-see/&#34;&gt;Learning to See&lt;/a&gt;—you won’t be disappointed.)&lt;/p&gt;
+
+&lt;p&gt;When we talk about design it’s very easy to adopt a reverential, exclusive tone. Design can be used as a means to up the price of a product. But it’s worth bearing in mind that many of the things we think of as examples of great design serve a democratic purpose. Tschischold invented a template for cheap, massproduced books that sold millions of copies:&lt;figure class=&#34;figure&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;full-bleed alignnone&#34; src=&#34;http://leonpaternoster.com/wp-content/uploads/2014/04/penguin.jpg&#34; alt=&#34;Penguin Great Gatsby cover&#34; width=&#34;616&#34; height=&#34;887&#34; /&gt;&lt;figcaption class=&#34;secondary&#34;&gt;Tschichold&amp;#8217;s Penguin book covers, used for millions of cheaply available classics. There&amp;#8217;s no reason why the best design can&amp;#8217;t be commonplace, but it&amp;#8217;s become more and more commoditised in recent years.&amp;nbsp;&lt;/p&gt;
+&lt;/figcaption&gt;&lt;/figure&gt;
+Tschischold is an interesting man. He escaped the Nazis in 1933 having published &lt;cite lang=&#34;de&#34;&gt;Die neue Typographie&lt;/cite&gt;, where he claimed sans serifs were the “basic form from which the typeface of the future will grow”. By 1952 he’d performed a &lt;em&gt;volte face&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The sanserif only seems to be the simpler script. It is a form that was violently reduced for little children. For adults it is more difficult to read than serifed roman type, whose serifs were never meant to be ornamental. &lt;cite&gt;On Typography&lt;/cite&gt; (via Jason Santa Maria’s article &lt;a href=&#34;http://v4.jasonsantamaria.com/articles/change-of-heart/&#34;&gt;&lt;cite&gt;Change of Heart&lt;/cite&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Apparently, Tschichold became disillusioned with sans serifs after the nazis adopted typefaces such as &lt;a href=&#34;http://www.fonts.com/font/linotype/futura&#34;&gt;Futura&lt;/a&gt; (interestingly enough Ikea’s chosen typeface, until &lt;a href=&#34;http://www.time.com/time/business/article/0%2C8599%2C1919127%2C00.html&#34;&gt;it switched to Verdana&lt;/a&gt;). While state typeface choice might not seem particularly important, you could argue that some sans serifs reflect a desire for purity and abstract cleanliness that appeal to totalitarian systems.&lt;/p&gt;
+
+&lt;p&gt;Anyway, there’s politics in the letterforms.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

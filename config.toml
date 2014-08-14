@@ -1,0 +1,10 @@
+baseurl = "http://leonpaternoster.com"
+languageCode = "en-gb"
+title = "Leon Paternoster"
+
+canonifyurls= "false"
+
+[[menu.main]]
+    name = "Posts"
+    identifier = "post"
+    url="/post"

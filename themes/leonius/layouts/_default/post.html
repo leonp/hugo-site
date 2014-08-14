@@ -1,0 +1,10 @@
+{{ template "theme/inc/head.html" . }}
+
+ 
+	<h1>{{ .Title }}</h1>
+
+	<p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+
+	{{ .Content }}
+
+{{ template "theme/inc/footer.html" . }}

@@ -1,0 +1,410 @@
+/*
+
+Title: Base
+Description: Base stylesheet for any project
+Author: Leon Paternoster
+Contact: leon.paternoster@unseen.is
+
+CONTENTS
+--------
+
+1.	BASE SETTINGS
+2.	PAGE COMPONENTS
+	2.1	banner-header
+	2.2	entry
+	2.3	link-list
+	2.4	info-footer
+3.	REUSABLES
+	3.1	primary
+	3.2	secondary
+	3.3 inline list
+4.	LAYOUT
+	4.1	clearfix
+	4.2	g
+	4.3 wrapper
+	
+*/
+	
+
+@media screen, projection { /* Start main media query */
+
+/*
+1.	BASE SETTINGS: RESET, ELEMENTS
+----------------------------------
+*/
+
+	body,
+	ul,
+	ol,
+	p,
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6,
+	fieldset,
+	dd,
+	figure,
+	figcaption,
+	main {
+		margin:  0;
+		padding: 0;
+	}
+
+	article,
+	aside,
+	dialog,
+	figure,
+	figcaption,
+	footer,
+	header,
+	hgroup,
+	nav,
+	section,
+	main {
+		display: block;
+	}
+	
+	body {
+		background-color: #FFF;
+		font-size: 112.5%;
+		line-height: 1.5;
+		font-family: Calluna, Lora, 'PT Serif', 'Times New Roman', Times, georgia, serif;
+		margin: 0;
+		border-top: 0.75em solid #444;
+		padding-top: 0.75em;
+		background-color: #FFF;
+		color: #444;
+	}
+	
+	
+/*
+2.	PAGE COMPONENTS
+-----------------------
+*/
+
+	/*
+	2.1	BANNER HEADER
+	---------------------
+	*/
+	
+	.banner-header {
+		padding: 0 0 0.75em 0;
+		margin-bottom: 1.5em;
+		text-align: center;
+	}
+	
+		.banner-header a {
+			text-decoration: none;
+			color: #888;
+		}
+		
+			.banner-header a:hover,
+			.banner-header a:active,
+			.banner-header a:focus {
+				text-decoration: underline;
+			}
+			
+	
+		.banner-header-title {
+			font-size: 1em;
+			font-style: italic;
+			color: #000;
+		}
+		
+			.banner-header-title a {
+				color: #444;
+			}
+		
+		.banner-header-nav-list-item {
+			display: inline;
+			margin: 0 0.75em;
+			font-size: 0.875em;
+			line-height: 1.429em;
+		}
+			
+			
+	/*
+	2.2	ENTRY
+	-------------
+	*/
+	
+	.entry {
+		padding-bottom: 0.75em;
+	}
+	
+		.entry a:link {
+			color: #0000FF;
+			border-bottom: 1px solid #CCC;
+			text-decoration: none;
+		}
+		
+		.entry a:visited {
+			color: #336699;
+			border-bottom: 1px solid #CCC;
+		}
+		
+		.entry a:hover,
+		.entry a:active,
+		.entry a:focus {
+			color: #0000FF;
+			border-bottom: 1px solid #0000FF;
+		}
+	
+		.entry-header {
+			padding-bottom: 1.5em;
+			text-align: center;
+		}
+		
+			.entry-header-title {
+				font-size: 2em;
+				line-height: 1.2em;
+				font-style: italic;
+				margin-bottom: 0.375em;
+			}
+			
+		.entry-content {
+			padding-bottom: 0.75em;
+			-moz-hyphens: auto;
+			-webkit-hyphens: auto;
+			hyphens: auto;
+		}
+		
+			.entry-content p,
+			.entry-content ul,
+			.entry-content ol,
+			.entry-content dd {
+				margin-bottom: 0.75em;
+			}
+			
+			.entry-content ul,
+			.entry-content ol {
+				margin-left: 1.25em;
+			}
+			
+			.entry-content img {
+				width: auto;
+				max-width: 100% !important;
+				height: auto !important;
+			}
+			
+			.entry-content figure {
+				padding-bottom: 1.5em;
+			}
+			
+			.entry-content h1,
+			.entry-content h2 {
+				font-size: 1.333em;
+				line-height: 1.125em;
+				text-align: center;
+				font-style: italic;
+				padding: 0.75em 0 0.375em 0;
+			}
+			
+			.entry-content h3 {
+				font-size: 1em;
+				line-height: 1.25em;
+				text-align: center;
+				font-style: italic;
+				padding: 0.75em 0 0.375em 0;
+			}
+			
+			.entry-content blockquote {
+				font-size: 0.875em;
+				line-height: 1.429em;
+				margin: 1.714em 0 1.714em 3em;
+			}
+			
+		.entry-footer {
+			text-align: center;
+			color: #888;
+		}
+
+			.entry-footer p,
+			.entry-footer ul,
+			.entry-footer ol {
+				margin-bottom: 0.75em;
+			}
+			
+			.entry-footer a {
+				border-bottom: none !important;
+			}
+			
+			
+	/*
+	2.3	LINK LIST
+	-------------
+	*/
+	
+	.link-list {
+		margin-left: 0 !important;
+	}
+	
+		.link-list-item {
+			padding: 0.25em 0;
+			list-style-type: none;
+		}
+		
+			.link-list-item-date {
+				color: #888;
+				float: right;
+				text-align: right;
+			}
+			
+			.link-list-item:hover .link-list-item-date {
+				color: #444;
+			}
+			
+	/*
+	2.4	INFO FOOTER
+	---------------
+	*/
+	
+	.info-footer {
+		padding: 0.75em 0;
+		text-align: center;
+		font-style: italic;
+	}
+	
+		.info-footer a {
+			color: #0000FF;
+		}
+			
+			
+/*
+3.	REUSABLES
+-----------------
+*/
+
+	.secondary {
+		color: #888;
+		font-size: 0.8125em;
+		line-height: 1.231em;
+	}
+	
+	.gigantic {
+		font-size: 2em;
+		line-height: 1.25em;
+	}
+	
+	.inline-list li {
+		margin-right: 0.75em;
+		display: inline;
+	}
+	
+	a.tag-term {
+		font-style: italic;
+	}
+	
+		a.tag-term:after {
+			content: ' / ';
+		}
+		
+		a.tag-term:last-child:after {
+			content: '';
+		}
+			
+	
+	
+/*
+4.	LAYOUT
+--------------
+*/
+
+	/*
+	4.3	CLEARFIX
+	----------------
+	*/
+	
+	.clearfix:before,
+	.clearfix:after {
+		content: "";
+		display: block;
+	}
+
+	.clearfix:after {
+		clear: both;
+	}
+
+	.clearfix {
+		zoom: 1;
+	}
+
+	/*
+	4.2	G
+	---------
+	*/
+	
+	.g-row {
+		clear: both;
+	}
+	
+	.g-col-left {
+		float: left;
+		margin-right: 5%;
+	}
+	
+	.g-col-right {
+		float: right;
+		margin-left: 5%;
+	}
+	
+	.g-col-last {
+		margin-right: 0;
+		margin-left: 0;
+	}
+	
+	.g-col1 {
+		width: 30%;
+	}
+	
+	.g-col2 {
+		width: 65%;
+	}
+	
+	.g-col3 {
+		width: 100%;
+	}
+
+	/*
+	4.3	WRAPPER
+	---------------
+	*/
+	
+	.wrapper {
+		max-width: 30em;
+		margin: 0 auto;
+		padding: 0 1.5em;
+	}
+	
+	
+} /* End main media query */
+
+
+@media screen and (min-width: 780px) { /* Start widescreen query */
+
+	/*
+	1.	BASE SETTINGS: RESET, ELEMENTS
+	----------------------------------
+	*/
+	
+		html {
+			background-color: #444;
+		}
+		
+		body {
+			font-size: 137.5%;
+			background-color: #FFF;
+			margin: 1.5em;
+			border-top: none;
+			padding-top: 0;
+		}
+		
+		.wrapper {
+			background-color: #FFF;
+			padding: 1.5em 4.5em;
+		}
+		
+
+} /* End widescreen query */

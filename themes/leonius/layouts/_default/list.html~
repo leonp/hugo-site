@@ -1,0 +1,17 @@
+{{ template "theme/inc/head.html" . }}
+
+		<div class="content container">
+	
+			<ul class="posts">
+		
+				{{ range .Data.Post }}
+				
+				<li><a href="{{ .Permalink }}">{{ .Title }}</a><time> &#8212; {{ .Date.Format "Mon, Jan 2, 2006" }}</time></li>
+			
+				{{ end }}
+			
+			</ul>
+		
+		</div>
+
+	{{ template "theme/inc/footer.html" . }}
